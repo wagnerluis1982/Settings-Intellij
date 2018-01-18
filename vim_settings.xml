@@ -1,0 +1,609 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/test/java/br/com/infracenter/smartroom/protocol/ProtocolProcessorTest.java" timestamp="1480178263303">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="35" column="40" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/Prova2/WebContent/mensagens.jsp" timestamp="1495991260331">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/hello/Testes.java" timestamp="1437595603858">
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/web/page2.jsp" timestamp="1505227869035">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/Testes.java" timestamp="1435848391260">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+        <mark key="^" line="8" column="52" />
+      </file>
+      <file name="$USER_HOME$/Faculdade/prof.wagnermacedo.com/assets/images/http-url.svg" timestamp="1501612388267">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" timestamp="1490729359351">
+        <mark key="'" line="227" column="21" />
+        <mark key="[" line="111" column="16" />
+        <mark key="]" line="111" column="15" />
+        <mark key="^" line="111" column="15" />
+        <mark key="." line="111" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gothings/TODO" timestamp="1434372442197">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Faculdade/prof.wagnermacedo.com/2017-2/pjw/2.html" timestamp="1502057868770">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+        <mark key="^" line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessSmartroomClient.java" timestamp="1485205201591">
+        <mark key="[" line="71" column="46" />
+        <mark key="]" line="69" column="46" />
+        <mark key="." line="69" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" timestamp="1445537100961">
+        <mark key="'" line="141" column="18" />
+        <mark key="[" line="141" column="52" />
+        <mark key="]" line="141" column="51" />
+        <mark key="^" line="141" column="51" />
+        <mark key="." line="141" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/transfer/MessageDataFrame.java" timestamp="1487354857725">
+        <mark key="[" line="77" column="40" />
+        <mark key="]" line="42" column="40" />
+        <mark key="." line="42" column="40" />
+        <mark key="^" line="42" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessConcat.java" timestamp="1490873356276">
+        <mark key="'" line="63" column="16" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/web/page3.jsp" timestamp="1505227885381">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/src/fanese/web/Av131Servlet.java" timestamp="1505246905800">
+        <mark key="'" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/web/index.html" timestamp="1496348989650">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/NanoHTTPDServerTest.java" timestamp="1445536966906">
+        <mark key="'" line="97" column="28" />
+        <mark key="[" line="97" column="47" />
+        <mark key="]" line="98" column="46" />
+        <mark key="^" line="98" column="46" />
+        <mark key="." line="98" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/ApacheHCServerTest.java" timestamp="1445536979577">
+        <mark key="'" line="94" column="28" />
+        <mark key="[" line="94" column="47" />
+        <mark key="]" line="95" column="46" />
+        <mark key="." line="95" column="46" />
+        <mark key="^" line="95" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/ExemploJSP/database/sqlite-script.sql" timestamp="1491824684366">
+        <mark key="'" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/Useless.java" timestamp="1487362992708">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/README.md" timestamp="1480538093083">
+        <mark key="[" line="97" column="20" />
+        <mark key="]" line="97" column="19" />
+        <mark key="^" line="97" column="19" />
+        <mark key="." line="97" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessBuilder.java" timestamp="1490873042200">
+        <mark key="'" line="9" column="30" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/io/netty/example/discard/DiscardServer.java" timestamp="1434488020459">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+      </file>
+      <file name="$USER_HOME$/Faculdade/prof.wagnermacedo.com/assets/custom.css" timestamp="1501089455199">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/CommunicationManager.java" timestamp="1445535002026">
+        <mark key="'" line="129" column="34" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="107" column="53" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/test/groovy/br/com/infracenter/smartroom/protocol/ProtocolProcessorTest.groovy" timestamp="1480208952754">
+        <mark key="'" line="24" column="18" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gothings/src/main/java/br/ufs/gothings/plugins/HttpPlugin.java" timestamp="1434433984650">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" timestamp="1445537158749">
+        <mark key="'" line="114" column="43" />
+        <mark key="[" line="114" column="54" />
+        <mark key="]" line="115" column="53" />
+        <mark key="." line="115" column="53" />
+        <mark key="^" line="115" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/block/Package.java" timestamp="1442534663538">
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="52" />
+        <mark key="^" line="31" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/gothings/src/main/java/br/ufs/gothings/Main.java" timestamp="1434406269352">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/build.gradle" timestamp="1441055067212">
+        <mark key="'" line="9" column="16" />
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="46" />
+        <mark key="^" line="28" column="46" />
+        <mark key="." line="28" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" timestamp="1445537112413">
+        <mark key="'" line="156" column="31" />
+        <mark key="[" line="156" column="52" />
+        <mark key="]" line="156" column="51" />
+        <mark key="^" line="156" column="51" />
+        <mark key="." line="156" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/test/groovy/br/com/infracenter/smartroom/protocol/SmartroomSyncClientTest.groovy" timestamp="1485886986629">
+        <mark key="[" line="263" column="8" />
+        <mark key="]" line="263" column="8" />
+        <mark key="." line="263" column="8" />
+        <mark key="^" line="114" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" timestamp="1445536092465">
+        <mark key="'" line="97" column="32" />
+        <mark key="[" line="126" column="53" />
+        <mark key="]" line="143" column="41" />
+        <mark key="^" line="143" column="41" />
+        <mark key="." line="143" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/core/message/headers/GwHeaders.java" timestamp="1445537177402">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/main/java/br/com/infracenter/smartroom/protocol/message/DataMessage.java" timestamp="1494526242333">
+        <mark key="'" line="141" column="12" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="178" column="0" />
+      </file>
+      <file name="$USER_HOME$/Faculdade/prof.wagnermacedo.com/2017-2/javaweb/index.html" timestamp="1499547393511">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="14" />
+        <mark key="." line="60" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fanese-experiments/src/main/java/web/HelloServlet.java" timestamp="1503617515732">
+        <mark key="[" line="52" column="65" />
+        <mark key="]" line="51" column="109" />
+        <mark key="^" line="51" column="109" />
+        <mark key="." line="51" column="109" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/test/groovy/br/com/infracenter/smartroom/protocol/socket/SmartroomSocketTest.groovy" timestamp="1481636660209">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/core/message/StatusMessage.java" timestamp="1442943480421">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fanese-experiments/src/main/java/fanese/web/RequisicaoServlet.java" timestamp="1503669971279">
+        <mark key="[" line="40" column="76" />
+        <mark key="]" line="40" column="75" />
+        <mark key="." line="40" column="75" />
+        <mark key="^" line="40" column="75" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/src/minimvc/Command.java" timestamp="1511265783649">
+        <mark key="[" line="149" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/test/groovy/br/com/infracenter/smartroom/protocol/common/BinaryValueTest.groovy" timestamp="1483907434213">
+        <mark key="[" line="157" column="34" />
+        <mark key="]" line="157" column="34" />
+        <mark key="." line="157" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/web/teste.jsp" timestamp="1493321646150">
+        <mark key="'" line="20" column="32" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/core/message/headers/HeaderNames.java" timestamp="1445537289110">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="36" />
+      </file>
+      <file name="$USER_HOME$/NetBeansProjects/WebApplication1/src/java/fanese/web/RequisicaoServlet.java" timestamp="1503666548477">
+        <mark key="[" line="31" column="75" />
+        <mark key="]" line="31" column="75" />
+        <mark key="." line="31" column="75" />
+        <mark key="^" line="37" column="77" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" timestamp="1453239295694">
+        <mark key="'" line="307" column="22" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/Faculdade/prof.wagnermacedo.com/assets/professor-utils.js" timestamp="1501218392336">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/core/GwHeaders.java" timestamp="1442352671979">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="55" />
+        <mark key="." line="30" column="55" />
+        <mark key="^" line="30" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/conf/SmartMQ.xml" timestamp="1491336314898">
+        <mark key="'" line="6" column="7" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/web/linguagens-form.jsp" timestamp="1505246758457">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" timestamp="1445536101485">
+        <mark key="'" line="36" column="22" />
+        <mark key="[" line="40" column="63" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="62" />
+        <mark key="^" line="41" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/main/java/br/com/infracenter/smartroom/protocol/transport/SmartroomIOTransport.java" timestamp="1482365311175">
+        <mark key="[" line="92" column="56" />
+        <mark key="]" line="92" column="56" />
+        <mark key="." line="92" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/main/java/br/com/infracenter/smartroom/protocol/message/MessageType.java" timestamp="1481638918974">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/ClienteTeste.java" timestamp="1486154804198">
+        <mark key="[" line="89" column="20" />
+        <mark key="]" line="69" column="20" />
+        <mark key="." line="69" column="20" />
+        <mark key="^" line="69" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/src/fanese/web/AtividadeServlet.java" timestamp="1504830248001">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/WebExperiments/web/posts/adicionar.jsp" timestamp="1509643833711">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="107" column="28" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="86" column="18" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="69" column="22" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="87" column="35" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="37" column="22" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" />
+      <jump line="43" column="52" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" />
+      <jump line="36" column="34" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/NanoHTTPDServerTest.java" />
+      <jump line="99" column="30" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="130" column="56" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="99" column="27" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/NanoHTTPDServerTest.java" />
+      <jump line="88" column="44" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="112" column="47" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="32" column="42" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/NanoHTTPDServerTest.java" />
+      <jump line="64" column="47" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" />
+      <jump line="105" column="37" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/CommunicationManager.java" />
+      <jump line="130" column="34" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/CommunicationManager.java" />
+      <jump line="32" column="41" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/ApacheHCServerTest.java" />
+      <jump line="303" column="20" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="353" column="17" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="357" column="18" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="332" column="22" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="125" column="29" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" />
+      <jump line="129" column="30" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" />
+      <jump line="132" column="34" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" />
+      <jump line="142" column="30" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" />
+      <jump line="109" column="29" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="117" column="30" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="122" column="30" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="126" column="30" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="32" column="21" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" />
+      <jump line="140" column="43" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" />
+      <jump line="41" column="49" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="38" column="49" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" />
+      <jump line="61" column="19" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" />
+      <jump line="185" column="17" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="33" column="21" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" />
+      <jump line="124" column="26" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="141" column="16" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="126" column="42" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" />
+      <jump line="143" column="41" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" />
+      <jump line="115" column="34" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="40" column="51" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" />
+      <jump line="34" column="34" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/NanoHTTPDServerTest.java" />
+      <jump line="34" column="33" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/ApacheHCServerTest.java" />
+      <jump line="333" column="22" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="349" column="14" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="66" column="20" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" />
+      <jump line="97" column="32" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/gateway/InterconnectionController.java" />
+      <jump line="36" column="22" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/mqtt/MqttPluginClientTest.java" />
+      <jump line="104" column="22" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="121" column="26" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" />
+      <jump line="187" column="18" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="148" column="57" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="169" column="56" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" />
+      <jump line="119" column="29" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="124" column="30" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="97" column="28" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/NanoHTTPDServerTest.java" />
+      <jump line="94" column="28" filename="$USER_HOME$/Projetos/gothings/src/test/java/br/ufs/gothings/plugins/http/ApacheHCServerTest.java" />
+      <jump line="143" column="18" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
+      <jump line="158" column="31" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/ApacheHCServer.java" />
+      <jump line="117" column="43" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginClient.java" />
+      <jump line="348" column="17" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="307" column="22" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/mqtt/MqttPluginServer.java" />
+      <jump line="24" column="18" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/test/groovy/br/com/infracenter/smartroom/protocol/ProtocolProcessorTest.groovy" />
+      <jump line="111" column="16" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="124" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="132" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="140" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="147" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="158" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="175" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="184" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="190" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="198" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="206" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="213" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="220" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="227" column="21" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomservice/src/br/com/infracenter/smartroomservice/BO/Controlador.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessConcat.java" />
+      <jump line="10" column="8" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessBuilder.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessBuilder.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessBuilder.java" />
+      <jump line="13" column="12" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessBuilder.java" />
+      <jump line="9" column="30" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessBuilder.java" />
+      <jump line="30" column="16" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessConcat.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessConcat.java" />
+      <jump line="63" column="16" filename="$USER_HOME$/IdeaProjects/experiments/src/main/java/useless/UselessConcat.java" />
+      <jump line="2" column="4" filename="$USER_HOME$/Projetos/InfraCenter/conf/SmartMQ.xml" />
+      <jump line="7" column="32" filename="$USER_HOME$/Projetos/InfraCenter/conf/SmartMQ.xml" />
+      <jump line="8" column="7" filename="$USER_HOME$/Projetos/InfraCenter/conf/SmartMQ.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/ExemploJSP/database/sqlite-script.sql" />
+      <jump line="20" column="32" filename="$USER_HOME$/IdeaProjects/WebExperiments/web/teste.jsp" />
+      <jump line="172" column="8" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/main/java/br/com/infracenter/smartroom/protocol/message/DataMessage.java" />
+      <jump line="176" column="39" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/main/java/br/com/infracenter/smartroom/protocol/message/DataMessage.java" />
+      <jump line="180" column="38" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/main/java/br/com/infracenter/smartroom/protocol/message/DataMessage.java" />
+      <jump line="141" column="12" filename="$USER_HOME$/Projetos/InfraCenter/DEV/smartroomprotocol/src/main/java/br/com/infracenter/smartroom/protocol/message/DataMessage.java" />
+      <jump line="18" column="4" filename="$USER_HOME$/IdeaProjects/WebExperiments/web/index.html" />
+      <jump line="154" column="0" filename="$USER_HOME$/Faculdade/prof.wagnermacedo.com/2017-2/pjw/2.html" />
+      <jump line="59" column="0" filename="$USER_HOME$/Faculdade/prof.wagnermacedo.com/assets/custom.css" />
+      <jump line="37" column="12" filename="$USER_HOME$/IdeaProjects/WebExperiments/src/fanese/web/Av131Servlet.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>&quot;\([a-z]\+\)&quot;</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PC90ZD48dGQ+</text>
+      </register>
+      <register name="1" type="8">
+        <text encoding="base64">PiBIYXNrZWxsIDxicj4KICBKdWxpYSAgIDxicj4=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="155" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">PiAgUHl0aG9uICA8YnI+CiAgIFJ1YnkgICAgPGJyPgogICBQSFAgICAgIDxicj4KICAgQyAgICAgICA8YnI+</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9Imxpbmd1YWdlbSIgdmFsdWU9CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJsaW5ndWFnZW0iIHZhbHVlPQogICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ibGluZ3VhZ2VtIiB2YWx1ZT0KICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9Imxpbmd1YWdlbSIgdmFsdWU9CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJsaW5ndWFnZW0iIHZhbHVlPQogICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ibGluZ3VhZ2VtIiB2YWx1ZT0=</text>
+      </register>
+      <register name="4" type="8">
+        <text>System.
+System.
+System.
+System.
+System.
+System.
+System.
+System.
+System.
+System.
+System.</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiA=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvdXQucHJpbnRsbigiPC90YWJsZT4iKTsK</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">PHRyPjx0ZCBub3dyYXA+Cjx0cj48dGQgbm93cmFwPg==</text>
+      </register>
+      <register name="9" type="8">
+        <text encoding="base64">LnJldmVhbCAuc2xpZGVzIHNlY3Rpb24gcHJlID4gY29kZSBbc3RlcF0KLnJldmVhbCAuc2xpZGVzIHNlY3Rpb24gcHJlID4gY29kZSBbc3RlcF0KLnJldmVhbCAuc2xpZGVzIHNlY3Rpb24gcHJlID4gY29kZSBbc3RlcF0=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLyJcKFthLXpdXCtcKSIvY2sgPSBnZXRMaW5ndWFnZW1Db29raWUocmVxdWVzdCwgZXNjb2xoaWRhcywgIlwxIik7XHJyZXNwb25zZS5hZGRDb29raWUoY2spOy8=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>&quot;\([a-z]\+\)&quot;</last-search>
+      <last-offset />
+      <last-pattern>&quot;\([a-z]\+\)&quot;</last-pattern>
+      <last-replace>ck = getLinguagemCookie(request, escolhidas, &quot;\1&quot;);\rresponse.addCookie(ck);</last-replace>
+      <last-substitute>&quot;\([a-z]\+\)&quot;</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzZXRPclJlbW92ZU9wdGlvbihcKFx7LX1cKSwuKg==</entry>
+        <entry encoding="base64">PHNldE9yUmVtb3ZlT3B0aW9uKFwoXHstfVwpLC4q</entry>
+        <entry encoding="base64">XDxzZXRPclJlbW92ZQ==</entry>
+        <entry encoding="base64">PHNldE9yUmVtb3ZlT3B0aW9uKFwoLlwrXCksLio=</entry>
+        <entry encoding="base64">XDxzZXRPclJlbW92ZU9wdGlvbihcKC5cK1wpLC4q</entry>
+        <entry encoding="base64">XDxnZXRPcHRcKC5cK1wpKCk=</entry>
+        <entry encoding="base64">XDxnZXRPcHRcKFteKF1cK1wpKCk=</entry>
+        <entry>{{</entry>
+        <entry>{{.*}}</entry>
+        <entry>{{ ?\(.*\) ?}}</entry>
+        <entry>{{ \?\(.*\)}}</entry>
+        <entry>{{ \?\(.*\ \?)}}</entry>
+        <entry>{{ \?\(.*\) \?}}</entry>
+        <entry>{{\(.*\)}}</entry>
+        <entry>^\( +\)\(.+\)</entry>
+        <entry encoding="base64">ICs=</entry>
+        <entry>^\( \+\)\(.\+\)</entry>
+        <entry>,</entry>
+        <entry>\([a-z]\+\)</entry>
+        <entry>&quot;\([a-z]\+\)&quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3t7ID9cKC5cK1wpID99fS88c3BhbiBuZy1iaW5kPSJcMSI+PC9zcGFuPi8=</entry>
+        <entry encoding="base64">JzwsJz5zL3t7ID9cKC4qXCkgP319LzxzcGFuIG5nLWJpbmQ9IlwxIj48L3NwYW4+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL1x7XHsgP1woLipcKSA/XH1cfS88c3BhbiBuZy1iaW5kPSJcMSI+PC9zcGFuPi8=</entry>
+        <entry encoding="base64">JzwsJz5zL3t7Ly8=</entry>
+        <entry encoding="base64">JzwsJz5zL3t7IFw/XCguXCtcKSBcP319LzxzcGFuIG5nLWJpbmQ9IlwxIj48L3NwYW4+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL3t7IFw/XCguKlwpIFw/fX0vPHNwYW4gbmctYmluZD0iXDEiPjwvc3Bhbj4v</entry>
+        <entry encoding="base64">JzwsJz5zL3t7XCguKlwpfX0vPHNwYW4gbmctYmluZD0iXDEiPjwvc3Bhbj4v</entry>
+        <entry encoding="base64">JzwsJz5zL3t7Lip9fS8v</entry>
+        <entry encoding="base64">JzwsJz5zL3t7ID9cKC4qXCkgP319LzxzcGFuIG5nLWJpbmQ9IlwxIj48XC9zcGFuPi8=</entry>
+        <entry encoding="base64">JzwsJz5zL3t7IFw/XCguKlwpfX0vPHNwYW4gbmctYmluZD0iXDEiPjxcL3NwYW4+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL3t7IFw/XCguKlwgXD8pfX0vPHNwYW4gbmctYmluZD0iXDEiPjxcL3NwYW4+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL3t7IFw/XCguKlwpIFw/fX0vPHNwYW4gbmctYmluZD0iXDEiPjxcL3NwYW4+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL3t7XCguKlwpfX0vPHNwYW4gbmctYmluZD0iXDEiPjxcL3NwYW4+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL15cKCArXClcKC4rXCkvXDE8XDI+Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL15cKCBcK1wpXCguXCtcKS9cMTxcMj4v</entry>
+        <entry encoding="base64">JzwsJz5zLywvLnZpc2libGUs</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1woW2Etel1cK1wpL2NrID0gZ2V0TGluZ3VhZ2VtQ29va2llKHJlcXVlc3QsIGVzY29saGlkYXMsICJcMSIpO1xucmVzcG9uc2UuYWRkQ29va2llKGNrKTsv</entry>
+        <entry encoding="base64">JzwsJz5zLyJcKFthLXpdXCtcKSIvY2sgPSBnZXRMaW5ndWFnZW1Db29raWUocmVxdWVzdCwgZXNjb2xoaWRhcywgIlwxIik7XG5yZXNwb25zZS5hZGRDb29raWUoY2spOy8=</entry>
+        <entry encoding="base64">JzwsJz5zLyJcKFthLXpdXCtcKSIvY2sgPSBnZXRMaW5ndWFnZW1Db29raWUocmVxdWVzdCwgZXNjb2xoaWRhcywgIlwxIik7XHJyZXNwb25zZS5hZGRDb29raWUoY2spOy8=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

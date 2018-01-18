@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="env TERM=linux /bin/zsh" />
+  </component>
+</application>

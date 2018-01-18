@@ -1,0 +1,10 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/1999/02/22-rdf-syntax-ns#" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/edc05920_22-rdf-syntax-ns#.xml" />
+    <ignored-resource url="http://creativecommons.org/ns#" />
+    <ignored-resource url="http://purl.org/dc/elements/1.1/" />
+    <ignored-resource url="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" />
+    <ignored-resource url="http://www.inkscape.org/namespaces/inkscape" />
+    <ignored-resource url="http://xml.openoffice.org/svg/export" />
+  </component>
+</application>
