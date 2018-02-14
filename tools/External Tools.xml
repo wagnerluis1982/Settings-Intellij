@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="Jekyll Server" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="Browser-Sync proxy" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/local/bin/jekyll" />
-      <option name="PARAMETERS" value="serve" />
+      <option name="COMMAND" value="browser-sync" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
     </exec>
   </tool>
