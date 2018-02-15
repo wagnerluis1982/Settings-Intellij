@@ -87,6 +87,11 @@
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
+      <file name="$USER_HOME$/NetBeansProjects/jogo-da-velha/web/WEB-INF/tags/Board.tag" timestamp="1518699802088">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/WebExperiments/src/fanese/web/Av131Servlet.java" timestamp="1505246905800">
         <mark key="'" line="42" column="12" />
       </file>
@@ -260,12 +265,6 @@
         <mark key="]" line="157" column="34" />
         <mark key="." line="157" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/WebExperiments/web/teste.jsp" timestamp="1493321646150">
-        <mark key="'" line="20" column="32" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-      </file>
       <file name="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/core/message/headers/HeaderNames.java" timestamp="1445537289110">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="9" />
@@ -344,7 +343,6 @@
         <mark key="." line="27" column="9" />
         <mark key="^" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/NetBeansProjects/jogo-da-velha/src/java/fanese/web/GameApp.java" timestamp="1518628316661" />
     </filemarks>
     <jumps>
       <jump line="107" column="28" filename="$USER_HOME$/Projetos/gothings/src/main/java/br/ufs/gothings/plugins/http/NanoHTTPDServer.java" />
@@ -449,8 +447,8 @@
       <jump line="37" column="12" filename="$USER_HOME$/IdeaProjects/WebExperiments/src/fanese/web/Av131Servlet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGM6c2V0IHZhcj0ic3RhdHVzIiB2YWx1ZT0iUHLDs3hpbW8gam9nYWRvcjogWCIgLz4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -461,8 +459,8 @@
       <register name="0" type="4">
         <text encoding="base64">PC90ZD48dGQ+</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">PiBIYXNrZWxsIDxicj4KICBKdWxpYSAgIDxicj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">PGM6c2V0IHZhcj0ic3RhdHVzIiB2YWx1ZT0iUHLDs3hpbW8gam9nYWRvcjogWCIgLz4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -474,12 +472,15 @@
         </keys>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">PiAgUHl0aG9uICA8YnI+CiAgIFJ1YnkgICAgPGJyPgogICBQSFAgICAgIDxicj4KICAgQyAgICAgICA8YnI+</text>
+        <text encoding="base64">PiBIYXNrZWxsIDxicj4KICBKdWxpYSAgIDxicj4=</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9Imxpbmd1YWdlbSIgdmFsdWU9CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJsaW5ndWFnZW0iIHZhbHVlPQogICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ibGluZ3VhZ2VtIiB2YWx1ZT0KICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9Imxpbmd1YWdlbSIgdmFsdWU9CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJsaW5ndWFnZW0iIHZhbHVlPQogICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ibGluZ3VhZ2VtIiB2YWx1ZT0=</text>
+        <text encoding="base64">PiAgUHl0aG9uICA8YnI+CiAgIFJ1YnkgICAgPGJyPgogICBQSFAgICAgIDxicj4KICAgQyAgICAgICA8YnI+</text>
       </register>
       <register name="4" type="8">
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9Imxpbmd1YWdlbSIgdmFsdWU9CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJsaW5ndWFnZW0iIHZhbHVlPQogICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ibGluZ3VhZ2VtIiB2YWx1ZT0KICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9Imxpbmd1YWdlbSIgdmFsdWU9CiAgICAgICAgPGlucHV0IHR5cGU9ImNoZWNrYm94IiBuYW1lPSJsaW5ndWFnZW0iIHZhbHVlPQogICAgICAgIDxpbnB1dCB0eXBlPSJjaGVja2JveCIgbmFtZT0ibGluZ3VhZ2VtIiB2YWx1ZT0=</text>
+      </register>
+      <register name="5" type="8">
         <text>System.
 System.
 System.
@@ -492,20 +493,17 @@ System.
 System.
 System.</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBvdXQucHJpbnRsbigiPC90YWJsZT4iKTsK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">PHRyPjx0ZCBub3dyYXA+Cjx0cj48dGQgbm93cmFwPg==</text>
-      </register>
       <register name="9" type="8">
-        <text encoding="base64">LnJldmVhbCAuc2xpZGVzIHNlY3Rpb24gcHJlID4gY29kZSBbc3RlcF0KLnJldmVhbCAuc2xpZGVzIHNlY3Rpb24gcHJlID4gY29kZSBbc3RlcF0KLnJldmVhbCAuc2xpZGVzIHNlY3Rpb24gcHJlID4gY29kZSBbc3RlcF0=</text>
+        <text encoding="base64">PHRyPjx0ZCBub3dyYXA+Cjx0cj48dGQgbm93cmFwPg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4hdHIgJ1tdJyAne30n</text>
@@ -559,11 +557,11 @@ System.</text>
         <entry encoding="base64">JzwsJz5zL15cKCArXClcKC4rXCkvXDE8XDI+Lw==</entry>
         <entry encoding="base64">JzwsJz5zL15cKCBcK1wpXCguXCtcKS9cMTxcMj4v</entry>
         <entry encoding="base64">JzwsJz5zLywvLnZpc2libGUs</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1woW2Etel1cK1wpL2NrID0gZ2V0TGluZ3VhZ2VtQ29va2llKHJlcXVlc3QsIGVzY29saGlkYXMsICJcMSIpO1xucmVzcG9uc2UuYWRkQ29va2llKGNrKTsv</entry>
         <entry encoding="base64">JzwsJz5zLyJcKFthLXpdXCtcKSIvY2sgPSBnZXRMaW5ndWFnZW1Db29raWUocmVxdWVzdCwgZXNjb2xoaWRhcywgIlwxIik7XG5yZXNwb25zZS5hZGRDb29raWUoY2spOy8=</entry>
         <entry encoding="base64">JzwsJz5zLyJcKFthLXpdXCtcKSIvY2sgPSBnZXRMaW5ndWFnZW1Db29raWUocmVxdWVzdCwgZXNjb2xoaWRhcywgIlwxIik7XHJyZXNwb25zZS5hZGRDb29raWUoY2spOy8=</entry>
         <entry encoding="base64">JzwsJz4hdHIgJ1tdJyAne30n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
