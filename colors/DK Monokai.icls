@@ -804,7 +804,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc3f3c" />
+        <option name="FOREGROUND" value="ff4136" />
+        <option name="BACKGROUND" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
