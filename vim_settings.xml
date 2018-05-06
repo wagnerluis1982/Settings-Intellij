@@ -2,14 +2,40 @@
   <component name="VimSettings">
     <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
+        <mark key="'" line="11" column="8" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="11" column="8" filename="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLyIvL2c=</text>
+      </register>
+      <register name="/" type="4">
+        <text>&quot;</text>
+      </register>
+    </registers>
     <search>
+      <last-search>&quot;</last-search>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>&quot;</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
