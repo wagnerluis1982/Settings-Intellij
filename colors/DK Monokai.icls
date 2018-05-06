@@ -650,7 +650,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="808080" />
+        <option name="FOREGROUND" value="bebebe" />
+        <option name="EFFECT_COLOR" value="bebebe" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -718,7 +719,7 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="66d9ee" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
