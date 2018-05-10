@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="env TERM=xterm-256color ZSH_THEME=robbyrussell /bin/zsh" />
+    <option name="myShellPath" value="env TERM=xterm-256color LANG=C.UTF-8 ZSH_THEME=robbyrussell /bin/zsh" />
   </component>
 </application>
