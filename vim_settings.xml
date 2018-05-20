@@ -16,27 +16,39 @@
       <jump line="11" column="8" filename="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnN5c3RlbTwvc2NvcGU+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnN5c3RlbTwvc2NvcGU+Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvL2c=</text>
+        <text encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
-      <last-pattern>&quot;</last-pattern>
+      <last-search encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>&quot;</entry>
+        <entry encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
+        <entry encoding="base64">JWQvPHNjb3BlPnN5c3RlbTxcL3Njb3BlPi8=</entry>
+        <entry encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZA==</entry>
+        <entry encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZ2Q=</entry>
+        <entry encoding="base64">Zy88c2NvcGU+c3lzdGVtPFwvc2NvcGU+L2Q=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -47,6 +59,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
