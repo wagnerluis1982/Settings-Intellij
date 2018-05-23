@@ -83,4 +83,7 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="h" />
   </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt dead_grave" />
+  </action>
 </keymap>
