@@ -3,11 +3,11 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527604262448">
-        <mark key="[" line="116" column="21" />
-        <mark key="]" line="116" column="23" />
-        <mark key="^" line="115" column="3" />
-        <mark key="." line="116" column="23" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527621858973">
+        <mark key="[" line="141" column="6" />
+        <mark key="]" line="137" column="6" />
+        <mark key="^" line="137" column="6" />
+        <mark key="." line="137" column="6" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesao.java" timestamp="1527537345472">
         <mark key="[" line="105" column="1" />
