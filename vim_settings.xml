@@ -3,11 +3,11 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527603452603">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="24" />
-        <mark key="^" line="77" column="3" />
-        <mark key="." line="78" column="23" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527604262448">
+        <mark key="[" line="116" column="21" />
+        <mark key="]" line="116" column="23" />
+        <mark key="^" line="115" column="3" />
+        <mark key="." line="116" column="23" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesao.java" timestamp="1527537345472">
         <mark key="[" line="105" column="1" />
@@ -29,13 +29,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDc3ZDb2x1bW4ocG9zID0gMjEpCg==</text>
+        <text encoding="base64">ICAgIEBDc3ZDb2x1bW4ocG9zID0gMzIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBDc3ZDb2x1bW4ocG9zID0gMjEpCg==</text>
+        <text encoding="base64">ICAgIEBDc3ZDb2x1bW4ocG9zID0gMzIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
