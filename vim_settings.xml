@@ -15,12 +15,12 @@
         <mark key="." line="36" column="1" />
         <mark key="^" line="36" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" timestamp="1528206302833">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" timestamp="1528221179192">
         <mark key="'" line="21" column="4" />
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="15" />
-        <mark key="^" line="21" column="4" />
-        <mark key="." line="41" column="15" />
+        <mark key="[" line="39" column="73" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/prof.wagnermacedo.com/2018-1/PJW/temp.md" timestamp="1525689537764">
         <mark key="[" line="94" column="61" />
@@ -36,8 +36,8 @@
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDc3ZDb2x1bW4ocG9zID0gMzIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">MCwg</text>
       </register>
       <register name="1" type="8">
         <text>'1Wcjsq2h1DU='
@@ -49,15 +49,8 @@
 'hKqoMkqPD8I='
 '4YPq2abZDFE='</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>'1Wcjsq2h1DU='
-'UIVsi+J+L0E='
-'vUQgif916KU='
-'NlGOyVJPyTA='
-'DKeaeIOl+eo='
-'w/7xpFinmYk='
-'hKqoMkqPD8I='
-'4YPq2abZDFE='</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">MCwg</text>
       </register>
       <register name="2" type="8">
         <text>99
@@ -136,6 +129,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
