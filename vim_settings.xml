@@ -22,22 +22,22 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528291503517">
-        <mark key="[" line="0" column="59" />
-        <mark key="]" line="0" column="59" />
-        <mark key="." line="0" column="59" />
-        <mark key="^" line="2" column="17" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528294401915">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Projetos/prof.wagnermacedo.com/2018-1/PJW/temp.md" timestamp="1525689537764">
         <mark key="[" line="94" column="61" />
         <mark key="]" line="94" column="64" />
         <mark key="." line="94" column="64" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528289761254">
-        <mark key="[" line="8" column="75" />
-        <mark key="]" line="8" column="75" />
-        <mark key="." line="8" column="75" />
-        <mark key="^" line="8" column="75" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528294348042">
+        <mark key="[" line="3" column="196" />
+        <mark key="]" line="3" column="199" />
+        <mark key="." line="3" column="199" />
+        <mark key="^" line="3" column="199" />
       </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
         <mark key="'" line="11" column="8" />
@@ -48,8 +48,19 @@
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text>it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -72,18 +83,20 @@
 5,</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+        <text>it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it
+it</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
-      </register>
-      <register name="3" type="8">
-        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
-      </register>
-      <register name="5" type="8">
         <text>app
 app
 app
@@ -97,32 +110,37 @@ app
 app
 app</text>
       </register>
-      <register name="6" type="8">
+      <register name="3" type="8">
         <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+        <text>app
+app
+app
+app
+app
+app
+app
+app
+app
+app
+app
+app</text>
       </register>
       <register name="8" type="8">
-        <text>'1Wcjsq2h1DU='
-'UIVsi+J+L0E='
-'vUQgif916KU='
-'NlGOyVJPyTA='
-'DKeaeIOl+eo='
-'w/7xpFinmYk='
-'hKqoMkqPD8I='
-'4YPq2abZDFE='</text>
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="9" type="8">
-        <text>99
-99
-99
-99
-99
-99
-99
-99
-99</text>
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZA==</text>
