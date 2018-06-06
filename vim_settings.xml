@@ -27,10 +27,10 @@
         <mark key="]" line="94" column="64" />
         <mark key="." line="94" column="64" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528287491196">
-        <mark key="[" line="6" column="147" />
-        <mark key="]" line="17" column="154" />
-        <mark key="." line="17" column="147" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528288531869">
+        <mark key="[" line="8" column="128" />
+        <mark key="]" line="8" column="128" />
+        <mark key="." line="8" column="128" />
         <mark key="^" line="6" column="152" />
       </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
@@ -43,7 +43,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</text>
@@ -63,15 +63,18 @@
 5,</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
+        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
       </register>
       <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      </register>
+      <register name="5" type="8">
         <text>app
 app
 app
@@ -85,13 +88,13 @@ app
 app
 app</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
-      </register>
       <register name="6" type="8">
         <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="7" type="8">
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+      </register>
+      <register name="8" type="8">
         <text>'1Wcjsq2h1DU='
 'UIVsi+J+L0E='
 'vUQgif916KU='
@@ -101,7 +104,7 @@ app</text>
 'hKqoMkqPD8I='
 '4YPq2abZDFE='</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>99
 99
 99
@@ -111,14 +114,6 @@ app</text>
 99
 99
 99</text>
-      </register>
-      <register name="9" type="8">
-        <text>'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
-'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
-'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
-'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
-'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
-'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZA==</text>
