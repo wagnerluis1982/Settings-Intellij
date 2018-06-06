@@ -27,6 +27,12 @@
         <mark key="]" line="94" column="64" />
         <mark key="." line="94" column="64" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528286310048">
+        <mark key="[" line="6" column="67" />
+        <mark key="]" line="6" column="67" />
+        <mark key="." line="6" column="67" />
+        <mark key="^" line="4" column="65" />
+      </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
         <mark key="'" line="11" column="8" />
       </file>
@@ -36,10 +42,22 @@
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
     </jumps>
     <registers>
+      <register name="&quot;" type="8">
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</text>
+      </register>
       <register name="0" type="4">
         <text encoding="base64">MCwg</text>
       </register>
       <register name="1" type="8">
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+      </register>
+      <register name="3" type="8">
         <text>'1Wcjsq2h1DU='
 'UIVsi+J+L0E='
 'vUQgif916KU='
@@ -49,10 +67,7 @@
 'hKqoMkqPD8I='
 '4YPq2abZDFE='</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">MCwg</text>
-      </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>99
 99
 99
@@ -63,7 +78,7 @@
 99
 99</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
 'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
 'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
@@ -71,23 +86,20 @@
 'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'
 'w/7xpFinmYk=', 'aL1aIgFNvpHud0HmMkcRuiaz0UANCtIn'</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBpbnQgCnB1YmxpYyBzdGF0aWMgZmluYWwgaW50IApwdWJsaWMgc3RhdGljIGZpbmFsIGludCAKcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgCnB1YmxpYyBzdGF0aWMgZmluYWwgaW50IApwdWJsaWMgc3RhdGljIGZpbmFsIGludCAKcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgCnB1YmxpYyBzdGF0aWMgZmluYWwgaW50IApwdWJsaWMgc3RhdGljIGZpbmFsIGludCAKcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgCnB1YmxpYyBzdGF0aWMgZmluYWwgaW50IApwdWJsaWMgc3RhdGljIGZpbmFsIGludCAKcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgCnB1YmxpYyBzdGF0aWMgZmluYWwgaW50IApwdWJsaWMgc3RhdGljIGZpbmFsIGludCAKcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgCnB1YmxpYyBzdGF0aWMgZmluYWwgaW50IApwdWJsaWMgc3RhdGljIGZpbmFsIGludCAKcHVibGljIHN0YXRpYyBmaW5hbCBpbnQg</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnN5c3RlbTwvc2NvcGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZA==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</text>
       </register>
     </registers>
     <search>
@@ -135,6 +147,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
