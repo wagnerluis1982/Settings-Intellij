@@ -22,6 +22,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528291503517">
+        <mark key="[" line="0" column="59" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Projetos/prof.wagnermacedo.com/2018-1/PJW/temp.md" timestamp="1525689537764">
         <mark key="[" line="94" column="61" />
         <mark key="]" line="94" column="64" />
@@ -42,11 +48,14 @@
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</text>
+        <text>dt_ven</text>
       </register>
       <register name="0" type="8">
         <text>4,
@@ -120,9 +129,9 @@ app</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</last-search>
+      <last-search>dt_ven</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</last-pattern>
+      <last-pattern>dt_ven</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -132,6 +141,8 @@ app</text>
       <history-search>
         <entry>&quot;</entry>
         <entry encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</entry>
+        <entry>dt_ve</entry>
+        <entry>dt_ven</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
@@ -167,6 +178,9 @@ app</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
