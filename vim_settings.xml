@@ -28,6 +28,12 @@
         <mark key="." line="2" column="75" />
         <mark key="^" line="2" column="75" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/app/version/VersionInformationRegistry.java" timestamp="1528376886030">
+        <mark key="[" line="98" column="13" />
+        <mark key="]" line="98" column="15" />
+        <mark key="." line="98" column="15" />
+        <mark key="^" line="71" column="18" />
+      </file>
       <file name="$USER_HOME$/Projetos/prof.wagnermacedo.com/2018-1/PJW/temp.md" timestamp="1525689537764">
         <mark key="[" line="94" column="61" />
         <mark key="]" line="94" column="64" />
@@ -54,19 +60,8 @@
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>it
-it
-it
-it
-it
-it
-it
-it
-it
-it
-it
-it</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -74,21 +69,36 @@ it</text>
       <register name="/" type="4">
         <text>dt_ven</text>
       </register>
-      <register name="0" type="8">
-        <text>4,
-0,
-1,
-5,
-4,
-4,
-0,
-0,
-1,
-1,
-5,
-5,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
       </register>
       <register name="1" type="8">
+        <text>(gitInfoResource 
+ try {
+     gitInfo.putA
+             load
+                 
+                 
+     );
+ } catch (IOExcep
+     throw new Un
+ }
+al VersionInforma
+s.versions.push(v
+ {
+ this.versionsInJ
+atch (JsonProcess
+ throw new Unchec</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="121" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="65" mods="130" />
+        </keys>
+      </register>
+      <register name="2" type="8">
         <text>it
 it
 it
@@ -102,7 +112,7 @@ it
 it
 it</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>app
 app
 app
@@ -115,20 +125,20 @@ app
 app
 app
 app</text>
-      </register>
-      <register name="3" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
+        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
       </register>
       <register name="7" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      </register>
+      <register name="8" type="8">
         <text>app
 app
 app
@@ -141,9 +151,6 @@ app
 app
 app
 app</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="9" type="8">
         <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
