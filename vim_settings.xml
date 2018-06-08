@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527621858973">
@@ -51,8 +51,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528479087969">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528479899122">
+        <mark key="'" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
         <mark key="'" line="11" column="8" />
@@ -62,6 +62,7 @@
       <jump line="11" column="8" filename="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" />
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
       <jump line="4" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -71,7 +72,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dt_ven</text>
+        <text>&quot;0\?\([0-9]\+\)&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
@@ -160,15 +161,15 @@ app</text>
         <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZA==</text>
+        <text encoding="base64">JzwsJz5zLyIwXD9cKFswLTldXCtcKSIvXDEv</text>
       </register>
     </registers>
     <search>
-      <last-search>dt_ven</last-search>
+      <last-search>&quot;0\?\([0-9]\+\)&quot;</last-search>
       <last-offset />
-      <last-pattern>dt_ven</last-pattern>
-      <last-replace />
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>&quot;0\?\([0-9]\+\)&quot;</last-pattern>
+      <last-replace>\1</last-replace>
+      <last-substitute>&quot;0\?\([0-9]\+\)&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -178,6 +179,8 @@ app</text>
         <entry encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</entry>
         <entry>dt_ve</entry>
         <entry>dt_ven</entry>
+        <entry>&quot;0?\([0-9]\+\)&quot;</entry>
+        <entry>&quot;0\?\([0-9]\+\)&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
@@ -186,6 +189,8 @@ app</text>
         <entry encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZ2Q=</entry>
         <entry encoding="base64">Zy88c2NvcGU+c3lzdGVtPFwvc2NvcGU+L2Q=</entry>
         <entry>retab</entry>
+        <entry encoding="base64">JzwsJz5zLyIwP1woWzAtOV1cK1wpIi9cMS8=</entry>
+        <entry encoding="base64">JzwsJz5zLyIwXD9cKFswLTldXCtcKSIvXDEv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
