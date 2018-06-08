@@ -51,8 +51,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528479899122">
-        <mark key="'" line="53" column="0" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528480432756">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
         <mark key="'" line="11" column="8" />
@@ -63,6 +63,7 @@
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
       <jump line="4" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
