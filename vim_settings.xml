@@ -51,8 +51,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528480432756">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528599257563">
+        <mark key="'" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
         <mark key="'" line="11" column="8" />
@@ -61,24 +61,41 @@
     <jumps>
       <jump line="11" column="8" filename="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" />
       <jump line="21" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
       <jump line="53" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
+      <jump line="51" column="54" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
+      <jump line="4" column="32" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
+      <jump line="54" column="4" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;0\?\([0-9]\+\)&quot;</text>
+        <text>\t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
       </register>
       <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="86" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="36" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="8">
         <text>(gitInfoResource 
  try {
      gitInfo.putA
@@ -96,15 +113,7 @@ s.versions.push(v
 atch (JsonProcess
  throw new Unchec</text>
       </register>
-      <register name="q" type="4">
-        <keys>
-          <key char="121" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="65535" code="65" mods="130" />
-        </keys>
-      </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>it
 it
 it
@@ -118,7 +127,7 @@ it
 it
 it</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>app
 app
 app
@@ -131,20 +140,20 @@ app
 app
 app
 app</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
+        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
       </register>
       <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      </register>
+      <register name="9" type="8">
         <text>app
 app
 app
@@ -158,20 +167,17 @@ app
 app
 app</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIwXD9cKFswLTldXCtcKSIvXDEv</text>
+        <text encoding="base64">JzwsJz5zL1x0LyAv</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;0\?\([0-9]\+\)&quot;</last-search>
+      <last-search>\t</last-search>
       <last-offset />
-      <last-pattern>&quot;0\?\([0-9]\+\)&quot;</last-pattern>
-      <last-replace>\1</last-replace>
-      <last-substitute>&quot;0\?\([0-9]\+\)&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>\t</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>\t</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -182,6 +188,8 @@ app</text>
         <entry>dt_ven</entry>
         <entry>&quot;0?\([0-9]\+\)&quot;</entry>
         <entry>&quot;0\?\([0-9]\+\)&quot;</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>\t</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
@@ -189,9 +197,10 @@ app</text>
         <entry encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZA==</entry>
         <entry encoding="base64">LzxzY29wZT5zeXN0ZW08XC9zY29wZT4vZ2Q=</entry>
         <entry encoding="base64">Zy88c2NvcGU+c3lzdGVtPFwvc2NvcGU+L2Q=</entry>
-        <entry>retab</entry>
         <entry encoding="base64">JzwsJz5zLyIwP1woWzAtOV1cK1wpIi9cMS8=</entry>
         <entry encoding="base64">JzwsJz5zLyIwXD9cKFswLTldXCtcKSIvXDEv</entry>
+        <entry>retab</entry>
+        <entry encoding="base64">JzwsJz5zL1x0LyAv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
