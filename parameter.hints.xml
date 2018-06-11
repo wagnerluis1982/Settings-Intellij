@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.assertj.core.api.ObjectAssert.extracting(extractors)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
