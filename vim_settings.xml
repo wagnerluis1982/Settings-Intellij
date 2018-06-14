@@ -9,12 +9,6 @@
         <mark key="^" line="137" column="6" />
         <mark key="." line="137" column="6" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesao.java" timestamp="1527537345472">
-        <mark key="[" line="105" column="1" />
-        <mark key="]" line="36" column="1" />
-        <mark key="." line="36" column="1" />
-        <mark key="^" line="36" column="1" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" timestamp="1528221179192">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="39" column="73" />
@@ -22,28 +16,14 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528730699819">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/app/version/VersionInformationRegistry.java" timestamp="1528376886030">
-        <mark key="[" line="98" column="13" />
-        <mark key="]" line="98" column="15" />
-        <mark key="." line="98" column="15" />
-        <mark key="^" line="71" column="18" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Helper/src/com/helper/Main.java" timestamp="1528831886720">
         <mark key="[" line="8" column="91" />
         <mark key="]" line="8" column="91" />
         <mark key="." line="8" column="91" />
         <mark key="^" line="8" column="91" />
       </file>
-      <file name="$USER_HOME$/Projetos/prof.wagnermacedo.com/2018-1/PJW/temp.md" timestamp="1525689537764">
-        <mark key="[" line="94" column="61" />
-        <mark key="]" line="94" column="64" />
-        <mark key="." line="94" column="64" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" timestamp="1528946216843">
+        <mark key="'" line="219" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528294348042">
         <mark key="[" line="3" column="196" />
@@ -57,17 +37,45 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528599257563">
-        <mark key="'" line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
-        <mark key="'" line="11" column="8" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cardorders-adesao-individual.sql" timestamp="1528730739005">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesao.java" timestamp="1527537345472">
+        <mark key="[" line="105" column="1" />
+        <mark key="]" line="36" column="1" />
+        <mark key="." line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528730699819">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/app/version/VersionInformationRegistry.java" timestamp="1528376886030">
+        <mark key="[" line="98" column="13" />
+        <mark key="]" line="98" column="15" />
+        <mark key="." line="98" column="15" />
+        <mark key="^" line="71" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projetos/prof.wagnermacedo.com/2018-1/PJW/temp.md" timestamp="1525689537764">
+        <mark key="[" line="94" column="61" />
+        <mark key="]" line="94" column="64" />
+        <mark key="." line="94" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528599257563">
+        <mark key="'" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/services/ClientServiceIT.java" timestamp="1528946176773">
+        <mark key="[" line="243" column="54" />
+        <mark key="]" line="243" column="55" />
+        <mark key="." line="243" column="55" />
+      </file>
+      <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
+        <mark key="'" line="11" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -79,6 +87,30 @@
       <jump line="51" column="54" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
       <jump line="4" column="32" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
       <jump line="54" column="4" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="245" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="232" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="230" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="153" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="158" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="162" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="169" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="172" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="189" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="194" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="199" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="212" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
