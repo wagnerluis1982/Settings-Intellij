@@ -69,10 +69,10 @@
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528599257563">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/services/ClientServiceIT.java" timestamp="1528946176773">
-        <mark key="[" line="243" column="54" />
-        <mark key="]" line="243" column="55" />
-        <mark key="." line="243" column="55" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/services/ClientServiceIT.java" timestamp="1529071587077">
+        <mark key="[" line="319" column="54" />
+        <mark key="]" line="319" column="54" />
+        <mark key="." line="319" column="54" />
       </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
         <mark key="'" line="11" column="8" />
@@ -114,7 +114,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -126,7 +126,7 @@
         <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -140,6 +140,9 @@
         </keys>
       </register>
       <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+      </register>
+      <register name="3" type="8">
         <text>(gitInfoResource 
  try {
      gitInfo.putA
@@ -157,7 +160,7 @@ s.versions.push(v
 atch (JsonProcess
  throw new Unchec</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>it
 it
 it
@@ -171,7 +174,7 @@ it
 it
 it</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>app
 app
 app
@@ -184,32 +187,18 @@ app
 app
 app
 app</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
+        <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
+        <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
       </register>
       <register name="9" type="8">
-        <text>app
-app
-app
-app
-app
-app
-app
-app
-app
-app
-app
-app</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1x0LyAv</text>
