@@ -438,7 +438,7 @@
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="242632" />
+        <option name="BACKGROUND" value="8b68b3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1023,7 +1023,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="44475a" />
+        <option name="BACKGROUND" value="8262a6" />
         <option name="ERROR_STRIPE_COLOR" value="ff5555" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
