@@ -274,7 +274,8 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="c5a6ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -321,7 +322,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="ae81ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -445,12 +446,6 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="242632" />
-      </value>
-    </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -937,20 +932,6 @@
     <option name="SPY-JS.FUNCTION_SCOPE">
       <value>
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="STATIC_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="bd93f9" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Scala Immutable Collection">
