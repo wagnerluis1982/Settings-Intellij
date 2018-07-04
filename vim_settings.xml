@@ -38,6 +38,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1ValidatorTest.java" timestamp="1530715375661">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cardorders-adesao-individual.sql" timestamp="1528730739005">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
@@ -120,11 +126,11 @@
       <jump line="219" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>\t</text>
@@ -132,8 +138,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -147,9 +153,12 @@
         </keys>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
+      </register>
+      <register name="4" type="8">
         <text>(gitInfoResource 
  try {
      gitInfo.putA
@@ -167,7 +176,7 @@ s.versions.push(v
 atch (JsonProcess
  throw new Unchec</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>it
 it
 it
@@ -181,7 +190,7 @@ it
 it
 it</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>app
 app
 app
@@ -195,17 +204,14 @@ app
 app
 app</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">MCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCAKMCwgCjAsIAowLCA=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">JzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCAKJzM2NScsIAonMzY1JywgCiczNjUnLCA=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
-      </register>
       <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -273,6 +279,9 @@ app</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
