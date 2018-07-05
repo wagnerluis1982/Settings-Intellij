@@ -26,6 +26,13 @@
         <mark key="'" line="219" column="0" />
         <mark key="." line="358" column="80" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" timestamp="1530796121734">
+        <mark key="'" line="415" column="23" />
+        <mark key="[" line="133" column="23" />
+        <mark key="]" line="133" column="39" />
+        <mark key="^" line="133" column="39" />
+        <mark key="." line="133" column="39" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528294348042">
         <mark key="[" line="3" column="196" />
         <mark key="]" line="3" column="199" />
@@ -124,6 +131,47 @@
       <jump line="212" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
       <jump line="214" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
       <jump line="219" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="105" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="114" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="122" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="125" column="16" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="140" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="147" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="154" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="161" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="168" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="175" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="182" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="190" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="198" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="210" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="218" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="226" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="233" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="240" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="247" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="255" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="265" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="270" column="31" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="281" column="31" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="284" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="293" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="303" column="31" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="306" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="314" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="332" column="35" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="344" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="348" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="352" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="356" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="370" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="374" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="378" column="35" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="392" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="396" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="404" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="407" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="415" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -133,7 +181,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>\t</text>
+        <text encoding="base64">XChcPExvYWRDbGllbnRFcnJvclwuW0EtWl9dXCtcKVwuZ2V0Q29kZSgp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
@@ -143,13 +191,73 @@
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="86" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="65535" code="40" mods="0" />
-          <key char="65535" code="36" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="90" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="92" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
         </keys>
       </register>
       <register name="2" type="8">
@@ -214,15 +322,15 @@ app</text>
         <text encoding="base64">NCwgCjAsIAoxLCAKNSwgCjQsIAo0LCAKMCwgCjAsIAoxLCAKMSwgCjUsIAo1LCA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvbmV3IFJlc3VsdEVycm9yKFwxKS8=</text>
       </register>
     </registers>
     <search>
-      <last-search>\t</last-search>
+      <last-search encoding="base64">XChcPExvYWRDbGllbnRFcnJvclwuW0EtWl9dXCtcKVwuZ2V0Q29kZSgp</last-search>
       <last-offset />
-      <last-pattern>\t</last-pattern>
-      <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute>\t</last-substitute>
+      <last-pattern encoding="base64">XChcPExvYWRDbGllbnRFcnJvclwuW0EtWl9dXCtcKVwuZ2V0Q29kZSgp</last-pattern>
+      <last-replace>new ResultError(\1)</last-replace>
+      <last-substitute encoding="base64">XChcPExvYWRDbGllbnRFcnJvclwuW0EtWl9dXCtcKVwuZ2V0Q29kZSgp</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -236,6 +344,10 @@ app</text>
         <entry>&quot;0\?\([0-9]\+\)&quot;</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>\t</entry>
+        <entry>\(\bLoadClientError\.[A-Z_]+\)\.getCode()</entry>
+        <entry>\(\bLoadClientError\.[A-Z_]\+\)\.getCode()</entry>
+        <entry>Load</entry>
+        <entry encoding="base64">XChcPExvYWRDbGllbnRFcnJvclwuW0EtWl9dXCtcKVwuZ2V0Q29kZSgp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
@@ -248,6 +360,13 @@ app</text>
         <entry>retab</entry>
         <entry encoding="base64">JzwsJz5zL1x0LyAv</entry>
         <entry>w</entry>
+        <entry>s/\(\bLoadClientError\.[A-Z_]\+\)\.getCode()/\1/</entry>
+        <entry>s/\(\bLoadClientError\.[A-Z_]+\)\.getCode()/\1/</entry>
+        <entry>s/\(\bLoadClientError\.[A-Z_]\+\)\.getCode()/$1/</entry>
+        <entry>s/Load//</entry>
+        <entry encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvJDEv</entry>
+        <entry encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvXDEv</entry>
+        <entry encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvbmV3IFJlc3VsdEVycm9yKFwxKS8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -282,6 +401,9 @@ app</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
