@@ -101,6 +101,12 @@
         <mark key="]" line="94" column="64" />
         <mark key="." line="94" column="64" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-tarifados/src/main/java/br/com/meutem/api/tarifados/controller/TarifadoController.java" timestamp="1532206209559">
+        <mark key="[" line="102" column="41" />
+        <mark key="]" line="102" column="40" />
+        <mark key="^" line="102" column="40" />
+        <mark key="." line="102" column="40" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528599257563">
         <mark key="'" line="4" column="4" />
       </file>
