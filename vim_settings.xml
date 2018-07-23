@@ -3,6 +3,71 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" timestamp="1530037789963">
+        <mark key="'" line="219" column="0" />
+        <mark key="." line="358" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" timestamp="1530796121734">
+        <mark key="'" line="415" column="23" />
+        <mark key="[" line="133" column="23" />
+        <mark key="]" line="133" column="39" />
+        <mark key="^" line="133" column="39" />
+        <mark key="." line="133" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/CardDTO.java" timestamp="1532358326024">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1ValidatorTest.java" timestamp="1530715375661">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/controller/ClientControllerTest.java" timestamp="1530835813557">
+        <mark key="[" line="78" column="44" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
+        <mark key="^" line="45" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/painel/repository/ImportedClientRepository.java" timestamp="1531146877882">
+        <mark key="[" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-enel/src/main/java/br/com/meutem/api/enel/responses/EnelCustomer.java" timestamp="1531401978777">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528730699819">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/ClientDTO.java" timestamp="1532359094473">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-tarifados/src/main/java/br/com/meutem/api/tarifados/controller/TarifadoController.java" timestamp="1532206209559">
+        <mark key="[" line="102" column="41" />
+        <mark key="]" line="102" column="40" />
+        <mark key="^" line="102" column="40" />
+        <mark key="." line="102" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528599257563">
+        <mark key="'" line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/controller/CardControllerTest.java" timestamp="1530618922866">
+        <mark key="[" line="67" column="37" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527621858973">
         <mark key="[" line="141" column="6" />
         <mark key="]" line="137" column="6" />
@@ -22,23 +87,6 @@
         <mark key="." line="8" column="91" />
         <mark key="^" line="8" column="91" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" timestamp="1530037789963">
-        <mark key="'" line="219" column="0" />
-        <mark key="." line="358" column="80" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" timestamp="1530796121734">
-        <mark key="'" line="415" column="23" />
-        <mark key="[" line="133" column="23" />
-        <mark key="]" line="133" column="39" />
-        <mark key="^" line="133" column="39" />
-        <mark key="." line="133" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/CardDTO.java" timestamp="1532358326024">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528294348042">
         <mark key="[" line="3" column="196" />
         <mark key="]" line="3" column="199" />
@@ -51,44 +99,17 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1ValidatorTest.java" timestamp="1530715375661">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-        <mark key="^" line="43" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/controller/ClientControllerTest.java" timestamp="1530835813557">
-        <mark key="[" line="78" column="44" />
-        <mark key="]" line="45" column="11" />
-        <mark key="." line="45" column="11" />
-        <mark key="^" line="45" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/painel/repository/ImportedClientRepository.java" timestamp="1531146877882">
-        <mark key="[" line="8" column="42" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cardorders-adesao-individual.sql" timestamp="1528730739005">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-enel/src/main/java/br/com/meutem/api/enel/responses/EnelCustomer.java" timestamp="1531401978777">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesao.java" timestamp="1527537345472">
         <mark key="[" line="105" column="1" />
         <mark key="]" line="36" column="1" />
         <mark key="." line="36" column="1" />
         <mark key="^" line="36" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528730699819">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/app/version/VersionInformationRegistry.java" timestamp="1528376886030">
         <mark key="[" line="98" column="13" />
@@ -107,25 +128,10 @@
         <mark key="]" line="94" column="64" />
         <mark key="." line="94" column="64" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-tarifados/src/main/java/br/com/meutem/api/tarifados/controller/TarifadoController.java" timestamp="1532206209559">
-        <mark key="[" line="102" column="41" />
-        <mark key="]" line="102" column="40" />
-        <mark key="^" line="102" column="40" />
-        <mark key="." line="102" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/enums/LoadClientError.java" timestamp="1528599257563">
-        <mark key="'" line="4" column="4" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/services/ClientServiceIT.java" timestamp="1529071587077">
         <mark key="[" line="319" column="54" />
         <mark key="]" line="319" column="54" />
         <mark key="." line="319" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/controller/CardControllerTest.java" timestamp="1530618922866">
-        <mark key="[" line="67" column="37" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/NetBeansProjects/SpringWebApp/database.sql" timestamp="1525649824116">
         <mark key="'" line="11" column="8" />
