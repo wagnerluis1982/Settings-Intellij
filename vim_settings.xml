@@ -14,6 +14,12 @@
         <mark key="^" line="133" column="39" />
         <mark key="." line="133" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" timestamp="1531516055354">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="64" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/CardDTO.java" timestamp="1532358326024">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="8" column="0" />
@@ -34,6 +40,13 @@
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/painel/repository/ImportedClientRepository.java" timestamp="1531146877882">
         <mark key="[" line="8" column="42" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" timestamp="1528221179192">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="39" column="73" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-enel/src/main/java/br/com/meutem/api/enel/responses/EnelCustomer.java" timestamp="1531401978777">
         <mark key="'" line="7" column="4" />
@@ -74,13 +87,6 @@
         <mark key="^" line="137" column="6" />
         <mark key="." line="137" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" timestamp="1528221179192">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="39" column="73" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/Helper/src/com/helper/Main.java" timestamp="1528831886720">
         <mark key="[" line="8" column="91" />
         <mark key="]" line="8" column="91" />
@@ -105,6 +111,12 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c4f31b3-69a6-44f8-900d-286faf1adf61/console.sql" timestamp="1534288446990">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesao.java" timestamp="1527537345472">
         <mark key="[" line="105" column="1" />
         <mark key="]" line="36" column="1" />
@@ -116,12 +128,6 @@
         <mark key="]" line="98" column="15" />
         <mark key="." line="98" column="15" />
         <mark key="^" line="71" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" timestamp="1531516055354">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="64" />
       </file>
       <file name="$USER_HOME$/Projetos/prof.wagnermacedo.com/2018-1/PJW/temp.md" timestamp="1525689537764">
         <mark key="[" line="94" column="61" />
@@ -221,12 +227,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text>,2018-07-12 10:29:44,
-,2018-07-12 10:33:02,
-,2018-07-12 10:53:17,
-,2018-07-12 10:55:56,
-,2018-07-12 11:14:26,
-,2018-07-12 11:44:08,</text>
+        <text>3
+3
+3
+3
+3
+3
+3
+3</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIEBCYXNpYw==</text>
@@ -238,12 +246,14 @@
         <text encoding="base64">ICAgICAgICBpbnQgYTI3ID0gMDsK</text>
       </register>
       <register name="1" type="8">
-        <text>,2018-07-12 10:29:44,
-,2018-07-12 10:33:02,
-,2018-07-12 10:53:17,
-,2018-07-12 10:55:56,
-,2018-07-12 11:14:26,
-,2018-07-12 11:44:08,</text>
+        <text>3
+3
+3
+3
+3
+3
+3
+3</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -317,6 +327,14 @@
         </keys>
       </register>
       <register name="2" type="8">
+        <text>,2018-07-12 10:29:44,
+,2018-07-12 10:33:02,
+,2018-07-12 10:53:17,
+,2018-07-12 10:55:56,
+,2018-07-12 11:14:26,
+,2018-07-12 11:44:08,</text>
+      </register>
+      <register name="3" type="8">
         <text>239,
 240,
 241,
@@ -324,19 +342,19 @@
 243,
 244,</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>(gitInfoResource 
  try {
      gitInfo.putA
@@ -354,7 +372,7 @@ s.versions.push(v
 atch (JsonProcess
  throw new Unchec</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>it
 it
 it
@@ -367,20 +385,6 @@ it
 it
 it
 it</text>
-      </register>
-      <register name="9" type="8">
-        <text>app
-app
-app
-app
-app
-app
-app
-app
-app
-app
-app
-app</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvbmV3IFJlc3VsdEVycm9yKFwxKS8=</text>
