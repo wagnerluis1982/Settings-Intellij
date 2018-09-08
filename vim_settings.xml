@@ -100,6 +100,12 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/MessUtils.java" timestamp="1536365072179">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="48" column="33" />
+        <mark key="." line="48" column="33" />
+        <mark key="^" line="48" column="33" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527621858973">
         <mark key="[" line="141" column="6" />
         <mark key="]" line="137" column="6" />
@@ -268,17 +274,17 @@
       <jump line="88" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/dto/ProviderDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkCiAgICBAQ29sdW1uKG5hbWUgPSAidGlwb191bmlkYWRlIikK</text>
+      <register name="&quot;" type="4">
+        <text>java.lang.Integer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIEBCYXNpYw==</text>
+        <text>java.lang.Integer</text>
       </register>
       <register name="/" type="4">
         <text>^ \+@[A-Z]</text>
       </register>
-      <register name="0" type="4">
-        <text>postalCode</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiamF2YS5sYW5nLkludGVnZXIiOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBFbnVtZXJhdGVkCiAgICBAQ29sdW1uKG5hbWUgPSAidGlwb191bmlkYWRlIikK</text>
