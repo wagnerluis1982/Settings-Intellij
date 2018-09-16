@@ -17,11 +17,11 @@
         <mark key="." line="166" column="20" />
         <mark key="^" line="166" column="20" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/repository/ProviderJpaRepository.java" timestamp="1537120937714">
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/repository/ProviderJpaRepository.java" timestamp="1537122315895">
         <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="25" />
-        <mark key="^" line="46" column="20" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/CardDTO.java" timestamp="1532358326024">
         <mark key="[" line="16" column="12" />
@@ -277,11 +277,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text>EntityPath
-EntityPath
-EntityPath
-EntityPath
-EntityPath</text>
+        <text>PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder</text>
       </register>
       <register name="-" type="4">
         <text>joinN</text>
@@ -293,11 +293,11 @@ EntityPath</text>
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiamF2YS5sYW5nLkludGVnZXIiOgo=</text>
       </register>
       <register name="1" type="8">
-        <text>EntityPath
-EntityPath
-EntityPath
-EntityPath
-EntityPath</text>
+        <text>PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,11 +344,28 @@ EntityPath</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdGhCdWlsZGVyPFByb3ZpZGVyPiBwcm92aWRlciA9IHBiZi5jcmVhdGUoUHJvdmlkZXIuY2xhc3MpLmFzKCJwIik7Cg==</text>
+      </register>
+      <register name="3" type="8">
+        <text>PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder</text>
+      </register>
+      <register name="4" type="8">
+        <text>EntityPath
+EntityPath
+EntityPath
+EntityPath
+EntityPath</text>
+      </register>
+      <register name="5" type="8">
         <text>joinC
 joinS</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>joinU
 joinU
 joinU
@@ -357,10 +374,10 @@ joinU
 joinU
 joinU</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgibmFtZSIpLmFsaWFzKCJzcGVjaWFsdHlOYW1lIikKICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgiZGVzY3JpcHRpb24iKS5hbGlhcygic3BlY2lhbHR5RGVzY3JpcHRpb24iKQo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>root
 root
 root
@@ -372,7 +389,7 @@ root
 root
 root</text>
       </register>
-      <register name="6" type="8">
+      <register name="9" type="8">
         <text>root.
 root.
 root.
@@ -383,15 +400,6 @@ root.
 root.
 root.
 root.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkCiAgICBAQ29sdW1uKG5hbWUgPSAidGlwb191bmlkYWRlIikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJtZWlvX2NhcHR1cmEiLCBsZW5ndGggPSA1MCwgbnVsbGFibGUgPSB0cnVlKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkKHZhbHVlID0gRW51bVR5cGUuT1JESU5BTCkKICAgIEBDb2x1bW4obmFtZSA9ICJtb3Rpdm9fdWx0aW1hX2Rlc2FiaWxpdGFjYW8iLCBudWxsYWJsZSA9IHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>/^ \+@[A-Z]/d</text>
