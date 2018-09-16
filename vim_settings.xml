@@ -3,11 +3,6 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" timestamp="1530037789963">
-        <mark key="'" line="219" column="0" />
-        <mark key="." line="358" column="80" />
-      </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/dto/TransactionTypeCard.java" timestamp="1536963256919" />
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" timestamp="1530796121734">
         <mark key="'" line="415" column="23" />
         <mark key="[" line="133" column="23" />
@@ -21,6 +16,12 @@
         <mark key="]" line="166" column="20" />
         <mark key="." line="166" column="20" />
         <mark key="^" line="166" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/repository/ProviderJpaRepository.java" timestamp="1537099395889">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="24" />
+        <mark key="." line="60" column="24" />
+        <mark key="^" line="60" column="24" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/CardDTO.java" timestamp="1532358326024">
         <mark key="[" line="16" column="12" />
@@ -275,11 +276,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/dto/ProviderDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>java.lang.Integer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgibmFtZSIpLmFsaWFzKCJzcGVjaWFsdHlOYW1lIikKICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgiZGVzY3JpcHRpb24iKS5hbGlhcygic3BlY2lhbHR5RGVzY3JpcHRpb24iKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>java.lang.Integer</text>
+        <text>.alias(&quot;telephone&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>^ \+@[A-Z]</text>
@@ -288,7 +289,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiamF2YS5sYW5nLkludGVnZXIiOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkCiAgICBAQ29sdW1uKG5hbWUgPSAidGlwb191bmlkYWRlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgibmFtZSIpLmFsaWFzKCJzcGVjaWFsdHlOYW1lIikKICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgiZGVzY3JpcHRpb24iKS5hbGlhcygic3BlY2lhbHR5RGVzY3JpcHRpb24iKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -335,29 +336,47 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJtZWlvX2NhcHR1cmEiLCBsZW5ndGggPSA1MCwgbnVsbGFibGUgPSB0cnVlKQo=</text>
+      <register name="2" type="8">
+        <text>root
+root
+root
+root
+root
+root
+root
+root
+root
+root</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkKHZhbHVlID0gRW51bVR5cGUuT1JESU5BTCkKICAgIEBDb2x1bW4obmFtZSA9ICJtb3Rpdm9fdWx0aW1hX2Rlc2FiaWxpdGFjYW8iLCBudWxsYWJsZSA9IHRydWUpCg==</text>
+      <register name="3" type="8">
+        <text>root.
+root.
+root.
+root.
+root.
+root.
+root.
+root.
+root.
+root.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uU2VyaWFsaXplKHVzaW5nID0gTG9jYWxEYXRlVGltZVNlcmlhbGl6ZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkCiAgICBAQ29sdW1uKG5hbWUgPSAidGlwb191bmlkYWRlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJkYXRhX3VsdGltYV9kZXNhYmlsaXRhY2FvIiwgbnVsbGFibGUgPSB0cnVlLCB1cGRhdGFibGUgPSB0cnVlKQogICAgQEpzb25EZXNlcmlhbGl6ZSh1c2luZyA9IExvY2FsRGF0ZVRpbWVEZXNlcmlhbGl6ZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJtZWlvX2NhcHR1cmEiLCBsZW5ndGggPSA1MCwgbnVsbGFibGUgPSB0cnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKc29uRGVzZXJpYWxpemUodXNpbmcgPSBMb2NhbERhdGVUaW1lRGVzZXJpYWxpemVyLmNsYXNzKQogICAgQEpzb25TZXJpYWxpemUodXNpbmcgPSBMb2NhbERhdGVUaW1lU2VyaWFsaXplci5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkKHZhbHVlID0gRW51bVR5cGUuT1JESU5BTCkKICAgIEBDb2x1bW4obmFtZSA9ICJtb3Rpdm9fdWx0aW1hX2Rlc2FiaWxpdGFjYW8iLCBudWxsYWJsZSA9IHRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJkYXRhX3VsdGltYV9saWJlcmFjYW8iLCBudWxsYWJsZSA9IHRydWUsIHVwZGF0YWJsZSA9IHRydWUpCg==</text>
+        <text encoding="base64">ICAgIEBKc29uU2VyaWFsaXplKHVzaW5nID0gTG9jYWxEYXRlVGltZVNlcmlhbGl6ZXIuY2xhc3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uRGVzZXJpYWxpemUodXNpbmcgPSBMb2NhbERhdGVUaW1lRGVzZXJpYWxpemVyLmNsYXNzKQogICAgQEpzb25TZXJpYWxpemUodXNpbmcgPSBMb2NhbERhdGVUaW1lU2VyaWFsaXplci5jbGFzcykK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJkYXRhX3VsdGltYV9kZXNhYmlsaXRhY2FvIiwgbnVsbGFibGUgPSB0cnVlLCB1cGRhdGFibGUgPSB0cnVlKQogICAgQEpzb25EZXNlcmlhbGl6ZSh1c2luZyA9IExvY2FsRGF0ZVRpbWVEZXNlcmlhbGl6ZXIuY2xhc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJkYXRhX2VudHJhZGEiLCBudWxsYWJsZSA9IHRydWUsIHVwZGF0YWJsZSA9IHRydWUpCg==</text>
+        <text encoding="base64">ICAgIEBKc29uRGVzZXJpYWxpemUodXNpbmcgPSBMb2NhbERhdGVUaW1lRGVzZXJpYWxpemVyLmNsYXNzKQogICAgQEpzb25TZXJpYWxpemUodXNpbmcgPSBMb2NhbERhdGVUaW1lU2VyaWFsaXplci5jbGFzcykK</text>
       </register>
       <register name=":" type="4">
         <text>/^ \+@[A-Z]/d</text>
