@@ -156,6 +156,12 @@
         <mark key="." line="36" column="1" />
         <mark key="^" line="36" column="1" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/dto/ProviderUnitSpecialtiesDTO.java" timestamp="1537535285517">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/app/version/VersionInformationRegistry.java" timestamp="1528376886030">
         <mark key="[" line="98" column="13" />
         <mark key="]" line="98" column="15" />
