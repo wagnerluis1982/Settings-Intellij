@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="org.assertj.core.api.ObjectAssert.extracting(extractors)" />
+        <added pattern="br.com.meutem.api.sempre.schedule.ScheduleSmsPassword.msg(expression)" />
       </blacklist>
     </blacklists>
   </component>
