@@ -23,6 +23,11 @@
         <mark key="." line="37" column="25" />
         <mark key="^" line="37" column="25" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/test/java/br/com/meutem/api/integration/tasks/RT010TaskTest.java" timestamp="1538256356335">
+        <mark key="[" line="161" column="59" />
+        <mark key="]" line="161" column="60" />
+        <mark key="." line="161" column="60" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/CardDTO.java" timestamp="1532358326024">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="8" column="0" />
@@ -137,6 +142,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/test/java/br/com/meutem/api/integration/tasks/RT009TaskTest.java" timestamp="1538256351828">
+        <mark key="[" line="160" column="59" />
+        <mark key="]" line="160" column="60" />
+        <mark key="." line="160" column="60" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cardorders-adesao-individual.sql" timestamp="1528730739005">
         <mark key="[" line="5" column="19" />
