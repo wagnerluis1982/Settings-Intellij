@@ -125,6 +125,12 @@
         <mark key="." line="8" column="91" />
         <mark key="^" line="8" column="91" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/main/java/br/com/meutem/api/integration/tasks/enel/IntegrationTaskBeans.java" timestamp="1538574594357">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-enel/src/test/java/br/com/meutem/api/enel/tasks/RT013TaskTest.java" timestamp="1535371213744">
         <mark key="[" line="130" column="22" />
         <mark key="]" line="130" column="21" />
