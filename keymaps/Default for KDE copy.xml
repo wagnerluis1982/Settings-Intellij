@@ -83,6 +83,9 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="h" />
   </action>
+  <action id="Tool_External Tools_cryptutil.py">
+    <keyboard-shortcut first-keystroke="shift ctrl numpad1" />
+  </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt dead_grave" />
   </action>
