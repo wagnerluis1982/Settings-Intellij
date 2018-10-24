@@ -137,6 +137,11 @@
         <mark key="." line="130" column="21" />
         <mark key="^" line="130" column="21" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/main/java/br/com/meutem/api/integration/services/LocationService.java" timestamp="1540402350052">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="36" column="51" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528294348042">
         <mark key="[" line="3" column="196" />
         <mark key="]" line="3" column="199" />
@@ -304,12 +309,8 @@
       <jump line="88" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/dto/ProviderDTO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>PathBuilder
-PathBuilder
-PathBuilder
-PathBuilder
-PathBuilder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDRVAucHV0KCJBQyIsIGJldHdlZW4oNjk5OTk5OTksIDY5OTAwMDAwKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>joinN</text>
@@ -318,7 +319,7 @@ PathBuilder</text>
         <text>^ \+@[A-Z]</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAiamF2YS5sYW5nLkludGVnZXIiOgo=</text>
+        <text encoding="base64">ICAgICAgICBDRVAucHV0KCJBQyIsIGJldHdlZW4oNjk5OTk5OTksIDY5OTAwMDAwKSk7Cg==</text>
       </register>
       <register name="1" type="8">
         <text>PathBuilder
