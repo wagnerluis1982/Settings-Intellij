@@ -46,9 +46,6 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/painel/repository/ImportedClientRepository.java" timestamp="1531146877882">
-        <mark key="[" line="8" column="42" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/dto/ProviderDTO.java" timestamp="1536261410379">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="88" column="0" />
@@ -118,6 +115,12 @@
         <mark key="]" line="137" column="6" />
         <mark key="^" line="137" column="6" />
         <mark key="." line="137" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" timestamp="1540838385111">
+        <mark key="'" line="69" column="29" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="199" column="71" />
+        <mark key="." line="199" column="71" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Helper/src/com/helper/Main.java" timestamp="1528831886720">
         <mark key="[" line="8" column="91" />
@@ -307,6 +310,7 @@
       <jump line="88" column="7" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" />
       <jump line="89" column="7" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" />
       <jump line="88" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/dto/ProviderDTO.java" />
+      <jump line="69" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -431,7 +435,7 @@ root.
 root.</text>
       </register>
       <register name=":" type="4">
-        <text>/^ \+@[A-Z]/d</text>
+        <text encoding="base64">JzwsJz5zb3J0</text>
       </register>
     </registers>
     <search>
@@ -464,7 +468,6 @@ root.</text>
         <entry>^ \+@[A-Z]</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIwXD9cKFswLTldXCtcKSIvXDEv</entry>
         <entry>retab</entry>
         <entry encoding="base64">JzwsJz5zL1x0LyAv</entry>
         <entry>w</entry>
@@ -484,6 +487,7 @@ root.</text>
         <entry>v/^ \+@[A-Z]/d</entry>
         <entry>/^ \+@[A-Z]/d%</entry>
         <entry>/^ \+@[A-Z]/d</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
