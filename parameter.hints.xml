@@ -5,6 +5,7 @@
       <blacklist language="Java">
         <added pattern="org.assertj.core.api.ObjectAssert.extracting(extractors)" />
         <added pattern="br.com.meutem.api.sempre.schedule.ScheduleSmsPassword.expression(expressionString)" />
+        <added pattern="br.com.meutem.api.sempre.services.StatusTransitions.from(state)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
