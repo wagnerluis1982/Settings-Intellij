@@ -36,6 +36,10 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl w" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
