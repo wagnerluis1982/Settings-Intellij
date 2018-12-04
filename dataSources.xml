@@ -85,7 +85,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="temdb@prod-meutem" group="prod" uuid="80f50af0-d646-4c08-b433-32c13c972221">
+    <data-source source="LOCAL" name="temdb@prod-meutem" read-only="true" group="prod" uuid="80f50af0-d646-4c08-b433-32c13c972221">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
