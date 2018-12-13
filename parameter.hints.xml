@@ -10,6 +10,5 @@
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
     </blacklists>
-    <option id="sql.show.column.names.in.insert.values" value="true" />
   </component>
 </application>
