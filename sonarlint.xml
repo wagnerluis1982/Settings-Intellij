@@ -1,0 +1,10 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:RedundantThrowsDeclarationCheck" />
+        <option value="squid:S1192" />
+      </set>
+    </option>
+  </component>
+</application>
