@@ -100,17 +100,27 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/test/java/br/com/meutem/api/utils/CsvReaderTest.java" timestamp="1545933918316">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/MessUtils.java" timestamp="1536365072179">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="48" column="33" />
         <mark key="." line="48" column="33" />
         <mark key="^" line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1527621858973">
-        <mark key="[" line="141" column="6" />
-        <mark key="]" line="137" column="6" />
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1545933861794">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="22" />
         <mark key="^" line="137" column="6" />
-        <mark key="." line="137" column="6" />
+        <mark key="." line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/dto/LoadArrecadacaoBmg.java" timestamp="1545933895653">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Helper/src/com/helper/Main.java" timestamp="1528831886720">
         <mark key="[" line="8" column="91" />
