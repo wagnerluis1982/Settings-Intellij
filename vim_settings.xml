@@ -328,7 +328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDRVAucHV0KCJBQyIsIGJldHdlZW4oNjk5OTk5OTksIDY5OTAwMDAwKSk7Cg==</text>
+        <text encoding="base64">and0LmNsaWVudC5hcHA9Y2FqdXRlY2ghKgpqd3Quc2VjcmV0LmFwcD1jYWp1dGVjaCEqCg==</text>
       </register>
       <register name="-" type="4">
         <text>joinN</text>
@@ -339,12 +339,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBDRVAucHV0KCJBQyIsIGJldHdlZW4oNjk5OTk5OTksIDY5OTAwMDAwKSk7Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>PathBuilder
-PathBuilder
-PathBuilder
-PathBuilder
-PathBuilder</text>
+      <register name="1" type="2">
+        <text encoding="base64">and0LmNsaWVudC5hcHA9Y2FqdXRlY2ghKgpqd3Quc2VjcmV0LmFwcD1jYWp1dGVjaCEqCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -391,28 +387,35 @@ PathBuilder</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdGhCdWlsZGVyPFByb3ZpZGVyPiBwcm92aWRlciA9IHBiZi5jcmVhdGUoUHJvdmlkZXIuY2xhc3MpLmFzKCJwIik7Cg==</text>
-      </register>
-      <register name="3" type="8">
+      <register name="2" type="8">
         <text>PathBuilder
 PathBuilder
 PathBuilder
 PathBuilder
 PathBuilder</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFBhdGhCdWlsZGVyPFByb3ZpZGVyPiBwcm92aWRlciA9IHBiZi5jcmVhdGUoUHJvdmlkZXIuY2xhc3MpLmFzKCJwIik7Cg==</text>
+      </register>
       <register name="4" type="8">
+        <text>PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder
+PathBuilder</text>
+      </register>
+      <register name="5" type="8">
         <text>EntityPath
 EntityPath
 EntityPath
 EntityPath
 EntityPath</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>joinC
 joinS</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>joinU
 joinU
 joinU
@@ -421,10 +424,10 @@ joinU
 joinU
 joinU</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgibmFtZSIpLmFsaWFzKCJzcGVjaWFsdHlOYW1lIikKICAgICAgICAgICAgICAgICAgICAgICAgam9pblNwZWNpYWx0aWVzLmdldCgiZGVzY3JpcHRpb24iKS5hbGlhcygic3BlY2lhbHR5RGVzY3JpcHRpb24iKQo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>root
 root
 root
@@ -435,18 +438,6 @@ root
 root
 root
 root</text>
-      </register>
-      <register name="9" type="8">
-        <text>root.
-root.
-root.
-root.
-root.
-root.
-root.
-root.
-root.
-root.</text>
       </register>
       <register name=":" type="4">
         <text>s/\\t/;/g</text>
