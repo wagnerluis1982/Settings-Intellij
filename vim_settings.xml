@@ -169,6 +169,12 @@
         <mark key="]" line="160" column="60" />
         <mark key="." line="160" column="60" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_3.sql" timestamp="1549462202299">
+        <mark key="[" line="134" column="72" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cardorders-adesao-individual.sql" timestamp="1528730739005">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
@@ -328,7 +334,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">and0LmNsaWVudC5hcHA9Y2FqdXRlY2ghKgpqd3Quc2VjcmV0LmFwcD1jYWp1dGVjaCEqCg==</text>
+        <text encoding="base64">ICAoJzA5OScsIGxwYWQoZmxvb3IocmFuZCgpICogMWU1KSwgNSwgJzAnKSwgJ3Rlc3RlL3N1bGFjYXAnLCBub3coKSwgNyksCiAgICAgICA7CgpTRUxFQ1QgaWQsIGNhcnRhb19pZApGUk9NIGJpbGhldGVfc29ydGUKV0hFUkUgY2FtcGFuaGFfY2FwaXRhbGl6YWNhb19pZCA9IDc7CgpVUERBVEUgYmlsaGV0ZV9zb3J0ZQpTRVQgY2FydGFvX2lkID0gTlVMTApXSEVSRSBjYW1wYW5oYV9jYXBpdGFsaXphY2FvX2lkIElOICg3LCA4KTsK</text>
       </register>
       <register name="-" type="4">
         <text>joinN</text>
@@ -337,7 +343,7 @@
         <text>\\t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDRVAucHV0KCJBQyIsIGJldHdlZW4oNjk5OTk5OTksIDY5OTAwMDAwKSk7Cg==</text>
+        <text encoding="base64">ICAoJzA5OScsIGxwYWQoZmxvb3IocmFuZCgpICogMWU1KSwgNSwgJzAnKSwgJ3Rlc3RlL3N1bGFjYXAnLCBub3coKSwgNyksCiAgICAgICA7CgpTRUxFQ1QgaWQsIGNhcnRhb19pZApGUk9NIGJpbGhldGVfc29ydGUKV0hFUkUgY2FtcGFuaGFfY2FwaXRhbGl6YWNhb19pZCA9IDc7CgpVUERBVEUgYmlsaGV0ZV9zb3J0ZQpTRVQgY2FydGFvX2lkID0gTlVMTApXSEVSRSBjYW1wYW5oYV9jYXBpdGFsaXphY2FvX2lkIElOICg3LCA4KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">and0LmNsaWVudC5hcHA9Y2FqdXRlY2ghKgpqd3Quc2VjcmV0LmFwcD1jYWp1dGVjaCEqCg==</text>
