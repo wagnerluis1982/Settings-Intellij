@@ -27,12 +27,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" timestamp="1536259293905">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" timestamp="1549817539476">
         <mark key="'" line="15" column="12" />
-        <mark key="[" line="166" column="20" />
-        <mark key="]" line="166" column="20" />
-        <mark key="." line="166" column="20" />
-        <mark key="^" line="166" column="20" />
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="521" column="36" />
+        <mark key="." line="521" column="36" />
+        <mark key="^" line="521" column="36" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1ValidatorTest.java" timestamp="1530715375661">
         <mark key="[" line="43" column="28" />
@@ -338,11 +338,11 @@
       <jump line="143" column="83" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleReportInactivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAoJzA5OScsIGxwYWQoZmxvb3IocmFuZCgpICogMWU1KSwgNSwgJzAnKSwgJ3Rlc3RlL3N1bGFjYXAnLCBub3coKSwgNyksCiAgICAgICA7CgpTRUxFQ1QgaWQsIGNhcnRhb19pZApGUk9NIGJpbGhldGVfc29ydGUKV0hFUkUgY2FtcGFuaGFfY2FwaXRhbGl6YWNhb19pZCA9IDc7CgpVUERBVEUgYmlsaGV0ZV9zb3J0ZQpTRVQgY2FydGFvX2lkID0gTlVMTApXSEVSRSBjYW1wYW5oYV9jYXBpdGFsaXphY2FvX2lkIElOICg3LCA4KTsK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>joinN</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>\\t</text>
