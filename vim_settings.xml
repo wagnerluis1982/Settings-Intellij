@@ -245,11 +245,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" timestamp="1540838385111">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" timestamp="1554126777861">
         <mark key="'" line="69" column="29" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="199" column="71" />
-        <mark key="." line="199" column="71" />
+        <mark key="[" line="128" column="48" />
+        <mark key="]" line="128" column="49" />
+        <mark key="." line="128" column="49" />
+        <mark key="^" line="128" column="49" />
       </file>
     </filemarks>
     <jumps>
