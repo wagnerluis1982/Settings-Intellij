@@ -7,6 +7,7 @@
         <added pattern="br.com.meutem.api.sempre.schedule.ScheduleSmsPassword.expression(expressionString)" />
         <added pattern="br.com.meutem.api.sempre.services.StatusTransitions.from(state)" />
         <added pattern="org.apache.commons.lang3.StringUtils.join(elements)" />
+        <added pattern="javax.persistence.EntityManager.createNativeQuery(sqlString)" />
       </blacklist>
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
