@@ -1,9 +1,9 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="bdsempre_temcard@qa-sempre" group="qa" uuid="651e2a7f-d87c-4491-9f2c-53683bd4d990">
-      <driver-ref>mysql</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://sempre-qa.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com:3306/bdsempre_temcard</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
