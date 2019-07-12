@@ -3,6 +3,19 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/dto/TransactionTypeCard.java" timestamp="1562934430170">
+        <mark key="'" line="22" column="24" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c4f31b3-69a6-44f8-900d-286faf1adf61/console.sql" timestamp="1534288446990">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" timestamp="1530796121734">
         <mark key="'" line="415" column="23" />
         <mark key="[" line="133" column="23" />
@@ -16,6 +29,13 @@
         <mark key="." line="37" column="25" />
         <mark key="^" line="37" column="25" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" timestamp="1554126777861">
+        <mark key="'" line="69" column="29" />
+        <mark key="[" line="128" column="48" />
+        <mark key="]" line="128" column="49" />
+        <mark key="." line="128" column="49" />
+        <mark key="^" line="128" column="49" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/test/java/br/com/meutem/api/integration/tasks/RT010TaskTest.java" timestamp="1538256356335">
         <mark key="[" line="161" column="59" />
         <mark key="]" line="161" column="60" />
@@ -26,13 +46,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" timestamp="1549817539476">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="520" column="0" />
-        <mark key="]" line="521" column="36" />
-        <mark key="." line="521" column="36" />
-        <mark key="^" line="521" column="36" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1ValidatorTest.java" timestamp="1530715375661">
         <mark key="[" line="43" column="28" />
@@ -53,21 +66,17 @@
         <mark key="^" line="67" column="3" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_6.sql" timestamp="1552596480240">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="94" column="12" />
+        <mark key="." line="94" column="12" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-enel/src/main/java/br/com/meutem/api/enel/responses/EnelCustomer.java" timestamp="1531401978777">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" timestamp="1535635197664">
-        <mark key="'" line="63" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" timestamp="1528221179192">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="39" column="73" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cards-adesao-expresso.sql" timestamp="1528730699819">
         <mark key="[" line="5" column="19" />
@@ -75,17 +84,14 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_6.sql" timestamp="1552596480240">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="94" column="12" />
-        <mark key="." line="94" column="12" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sac/src/main/java/br/com/meutem/api/sac/dto/ClientDTO.java" timestamp="1532359094473">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" timestamp="1535635197664">
+        <mark key="'" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" timestamp="1535744839325">
         <mark key="'" line="89" column="7" />
@@ -105,6 +111,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_3.sql" timestamp="1549462202299">
+        <mark key="[" line="134" column="72" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/test/java/br/com/meutem/api/utils/CsvReaderTest.java" timestamp="1545933918316">
         <mark key="[" line="56" column="25" />
@@ -156,13 +168,6 @@
         <mark key="]" line="36" column="51" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80f50af0-d646-4c08-b433-32c13c972221/console.sql" timestamp="1534426067923">
-        <mark key="'" line="359" column="9" />
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/products-all-types.sql" timestamp="1528294348042">
         <mark key="[" line="3" column="196" />
         <mark key="]" line="3" column="199" />
@@ -175,16 +180,24 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" timestamp="1549817539476">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="521" column="36" />
+        <mark key="." line="521" column="36" />
+        <mark key="^" line="521" column="36" />
+      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/test/java/br/com/meutem/api/integration/tasks/RT009TaskTest.java" timestamp="1538256351828">
         <mark key="[" line="160" column="59" />
         <mark key="]" line="160" column="60" />
         <mark key="." line="160" column="60" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_3.sql" timestamp="1549462202299">
-        <mark key="[" line="134" column="72" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console_1.sql" timestamp="1528221179192">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="39" column="73" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/resources/fixtures/cardorders-adesao-individual.sql" timestamp="1528730739005">
         <mark key="[" line="5" column="19" />
@@ -197,6 +210,13 @@
         <mark key="]" line="65" column="13" />
         <mark key="^" line="65" column="13" />
         <mark key="." line="65" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/80f50af0-d646-4c08-b433-32c13c972221/console.sql" timestamp="1534426067923">
+        <mark key="'" line="359" column="9" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesao.java" timestamp="1527537345472">
         <mark key="[" line="105" column="1" />
@@ -229,12 +249,6 @@
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleReportInactivity.java" timestamp="1543365433486">
         <mark key="'" line="143" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1c4f31b3-69a6-44f8-900d-286faf1adf61/console.sql" timestamp="1534288446990">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-      </file>
       <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/test/java/br/com/meutem/api/sempre/services/ClientServiceIT.java" timestamp="1529071587077">
         <mark key="[" line="319" column="54" />
         <mark key="]" line="319" column="54" />
@@ -245,16 +259,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" timestamp="1554126777861">
-        <mark key="'" line="69" column="29" />
-        <mark key="[" line="128" column="48" />
-        <mark key="]" line="128" column="49" />
-        <mark key="." line="128" column="49" />
-        <mark key="^" line="128" column="49" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
       <jump line="172" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
       <jump line="183" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
       <jump line="189" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
@@ -354,22 +360,23 @@
       <jump line="115" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
       <jump line="118" column="8" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
       <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_6.sql" />
+      <jump line="22" column="24" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/dto/TransactionTypeCard.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFLW1haWwgZG8gY2xpZW50ZQogICAgICAgICAqLwo=</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>\*\/</text>
+        <text>\t\+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAoJzA5OScsIGxwYWQoZmxvb3IocmFuZCgpICogMWU1KSwgNSwgJzAnKSwgJ3Rlc3RlL3N1bGFjYXAnLCBub3coKSwgNyksCiAgICAgICA7CgpTRUxFQ1QgaWQsIGNhcnRhb19pZApGUk9NIGJpbGhldGVfc29ydGUKV0hFUkUgY2FtcGFuaGFfY2FwaXRhbGl6YWNhb19pZCA9IDc7CgpVUERBVEUgYmlsaGV0ZV9zb3J0ZQpTRVQgY2FydGFvX2lkID0gTlVMTApXSEVSRSBjYW1wYW5oYV9jYXBpdGFsaXphY2FvX2lkIElOICg3LCA4KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFLW1haWwgZG8gY2xpZW50ZQogICAgICAgICAqLwo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -392,45 +399,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSBjb21lcmNpYWwKICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFLW1haWwgZG8gY2xpZW50ZQogICAgICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSByZXNpZGVuY2lhbAogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSBjb21lcmNpYWwKICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSBjZWx1bGFyCiAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSByZXNpZGVuY2lhbAogICAgICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoZXN0YWRvKQogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSBjZWx1bGFyCiAgICAgICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoQ0VQKQogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoZXN0YWRvKQogICAgICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoY2lkYWRlKQogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoQ0VQKQogICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoYmFpcnJvKQogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoY2lkYWRlKQogICAgICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoY29tcGxlbWVudG8pCiAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoYmFpcnJvKQogICAgICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0</text>
+        <text encoding="base64">JzwsJz5zL1x0XCsvIC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>\*\/</last-search>
+      <last-search>\t\+</last-search>
       <last-offset />
-      <last-pattern>\*\/</last-pattern>
-      <last-replace>;</last-replace>
-      <last-substitute>\\t</last-substitute>
+      <last-pattern>\t\+</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>\t\+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</entry>
         <entry>dt_ve</entry>
         <entry>dt_ven</entry>
@@ -450,10 +456,9 @@
         <entry>\\t</entry>
         <entry>\/\*\*</entry>
         <entry>\*\/</entry>
+        <entry>\t\+</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>s/\(\bLoadClientError\.[A-Z_]\+\)\.getCode()/\1/</entry>
         <entry>s/\(\bLoadClientError\.[A-Z_]+\)\.getCode()/\1/</entry>
         <entry>s/\(\bLoadClientError\.[A-Z_]\+\)\.getCode()/$1/</entry>
         <entry>s/Load//</entry>
@@ -472,6 +477,8 @@
         <entry>s/\t/;/g</entry>
         <entry>s/\\t/;/g</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">JzwsJz5yZXRhYg==</entry>
+        <entry encoding="base64">JzwsJz5zL1x0XCsvIC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
