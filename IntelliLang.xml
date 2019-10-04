@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="spring-resource-reference" injector-id="java">
+      <display-name>Configuration.getTemplate (freemarker.template)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getTemplate").withParameters("java.lang.String").definedInClass("freemarker.template.Configuration"))]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>Connection (java.sql)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("nativeSQL").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
