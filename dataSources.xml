@@ -1,19 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="bdsempre_temcard@qa-sempre" group="qa" uuid="651e2a7f-d87c-4491-9f2c-53683bd4d990">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://sempre-qa.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com:3306/bdsempre_temcard</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="temdb@localhost" read-only="true" group="dev" uuid="7e012c42-0ede-49f0-97d9-343d4b61d23b">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
@@ -29,10 +15,10 @@
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="temdb@qa-meutem" group="qa" uuid="91c084f8-5856-4f4a-9b0e-7dcbf812cbff">
-      <driver-ref>mysql</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://meutem.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com:3306/qa_temdb</jdbc-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://qatrds-dbms-painel.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com:3306/qa_temdb?useSSL=false</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
@@ -115,7 +101,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="bdsempre_temcard@qa-sempre [new]" group="qa" uuid="3d419960-049b-4499-a578-4a3b617742dd">
+    <data-source source="LOCAL" name="bdsempre_temcard@qa-sempre" group="qa" uuid="3d419960-049b-4499-a578-4a3b617742dd">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
