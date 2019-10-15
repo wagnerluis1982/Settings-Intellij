@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>AbstractCharSequenceAssert.matches (org.assertj.core.api)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.CharSequence").definedInClass("org.assertj.core.api.AbstractCharSequenceAssert"))]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>Connection (java.sql)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("nativeSQL").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
