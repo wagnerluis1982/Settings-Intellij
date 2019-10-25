@@ -56,11 +56,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="bdsempre_temcard@localhost" group="dev" uuid="042878fa-79fc-469e-a1eb-6fc3645d06d1">
-      <driver-ref>mysql</driver-ref>
+    <data-source source="LOCAL" name="localhost" group="dev" uuid="042878fa-79fc-469e-a1eb-6fc3645d06d1">
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/bdsempre_temcard</jdbc-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
