@@ -102,7 +102,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://qatrds-dbms-sempre.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com:3306/bdsempre_temcard?useSS=false:3306/bdsempre_temcard</jdbc-url>
+      <jdbc-url>jdbc:mysql://qatrds-dbms-sempre.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com:3306/bdsempre_temcard?useSS=false</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
