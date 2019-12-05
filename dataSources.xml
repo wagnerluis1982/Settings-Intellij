@@ -43,10 +43,11 @@
       </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="qa-tarifados@integration" group="qa" uuid="5d143672-a4bc-4e50-ba86-ff03d460ff5a">
-      <driver-ref>mysql</driver-ref>
+      <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://integration-qa.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com:3306/integration?useSSL=false</jdbc-url>
+      <remarks>qatrds-dbms-integr.c8s58pa7ogkw.sa-east-1.rds.amazonaws.com</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:33306/integration?useSSL=false</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
