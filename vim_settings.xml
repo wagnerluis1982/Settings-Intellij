@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">PHNjb3BlPnN5c3RlbTxcL3Njb3BlPg==</entry>
+        <entry>dt_ve</entry>
+        <entry>dt_ven</entry>
+        <entry>&quot;0?\([0-9]\+\)&quot;</entry>
+        <entry>&quot;0\?\([0-9]\+\)&quot;</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>\(\bLoadClientError\.[A-Z_]+\)\.getCode()</entry>
+        <entry>\(\bLoadClientError\.[A-Z_]\+\)\.getCode()</entry>
+        <entry>Load</entry>
+        <entry encoding="base64">XChcPExvYWRDbGllbnRFcnJvclwuW0EtWl9dXCtcKVwuZ2V0Q29kZSgp</entry>
+        <entry>+</entry>
+        <entry>%</entry>
+        <entry>;</entry>
+        <entry>@</entry>
+        <entry>^ \+@[A-Z]</entry>
+        <entry>\t</entry>
+        <entry>\\t</entry>
+        <entry>\/\*\*</entry>
+        <entry>\*\/</entry>
+        <entry>\t\+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/\(\bLoadClientError\.[A-Z_]+\)\.getCode()/\1/</entry>
+        <entry>s/\(\bLoadClientError\.[A-Z_]\+\)\.getCode()/$1/</entry>
+        <entry>s/Load//</entry>
+        <entry encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvJDEv</entry>
+        <entry encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvXDEv</entry>
+        <entry encoding="base64">cy9cKFw8TG9hZENsaWVudEVycm9yXC5bQS1aX11cK1wpXC5nZXRDb2RlKCkvbmV3IFJlc3VsdEVycm9yKFwxKS8=</entry>
+        <entry>/@/d</entry>
+        <entry>/^ \+@[A-Z]/gd</entry>
+        <entry>/^ \+@[A-Z]/dg</entry>
+        <entry>%/^ \+@[A-Z]/d</entry>
+        <entry>g/^ \+@[A-Z]/d</entry>
+        <entry>help g</entry>
+        <entry>v/^ \+@[A-Z]/d</entry>
+        <entry>/^ \+@[A-Z]/d%</entry>
+        <entry>/^ \+@[A-Z]/d</entry>
+        <entry>s/\t/;/g</entry>
+        <entry>s/\\t/;/g</entry>
+        <entry encoding="base64">JzwsJz5zb3J0</entry>
+        <entry encoding="base64">JzwsJz5yZXRhYg==</entry>
+        <entry encoding="base64">JzwsJz5zL1x0XCsvIC9n</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
@@ -36,11 +88,291 @@
         <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/LoadClientRequest.java" timestamp="1545933861794">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="137" column="6" />
+        <mark key="." line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/dto/LoadArrecadacaoBmg.java" timestamp="1545933895653">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8b15c15f-4857-4259-94d2-cbfdbedbcf6d/console_1.sql" timestamp="1573062233824">
+        <mark key="[" line="80" column="7" />
+        <mark key="]" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/dto/TransactionTypeCard.java" timestamp="1562934430170">
+        <mark key="'" line="22" column="24" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/main/java/br/com/meutem/api/integration/tasks/enel/IntegrationTaskBeans.java" timestamp="1538574594357">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/repository/ProviderJpaRepository.java" timestamp="1537122315895">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/test/java/br/com/meutem/api/integration/tasks/RT010TaskTest.java" timestamp="1538256356335">
+        <mark key="[" line="161" column="59" />
+        <mark key="]" line="161" column="60" />
+        <mark key="." line="161" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/main/java/br/com/meutem/api/integration/services/LocationService.java" timestamp="1540402350052">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="36" column="51" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" timestamp="1549817539476">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="521" column="36" />
+        <mark key="." line="521" column="36" />
+        <mark key="^" line="521" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_6.sql" timestamp="1552596480240">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="94" column="12" />
+        <mark key="." line="94" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-integration/src/test/java/br/com/meutem/api/integration/tasks/RT009TaskTest.java" timestamp="1538256351828">
+        <mark key="[" line="160" column="59" />
+        <mark key="]" line="160" column="60" />
+        <mark key="." line="160" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/AppTemApplication.java" timestamp="1537993233489">
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="65" column="13" />
+        <mark key="^" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/dto/ProviderUnitSpecialtiesDTO.java" timestamp="1537535285517">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/SmsNotificationService.java" timestamp="1549745038834">
+        <mark key="[" line="93" column="27" />
+        <mark key="]" line="93" column="29" />
+        <mark key="." line="93" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" timestamp="1554126777861">
+        <mark key="'" line="69" column="29" />
+        <mark key="[" line="128" column="48" />
+        <mark key="]" line="128" column="49" />
+        <mark key="." line="128" column="49" />
+        <mark key="^" line="128" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleReportInactivity.java" timestamp="1543365433486">
+        <mark key="'" line="143" column="83" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_3.sql" timestamp="1549462202299">
+        <mark key="[" line="134" column="72" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/test/java/br/com/meutem/api/utils/CsvReaderTest.java" timestamp="1545933918316">
+        <mark key="[" line="56" column="25" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" timestamp="1550145948072">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/MessUtils.java" timestamp="1536365072179">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="48" column="33" />
+        <mark key="." line="48" column="33" />
+        <mark key="^" line="48" column="33" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="172" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="189" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="194" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="199" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="206" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="212" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/services/ClientService.java" />
+      <jump line="105" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="114" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="122" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="125" column="16" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="140" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="147" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="154" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="161" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="168" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="175" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="182" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="190" column="12" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="198" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="210" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="218" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="226" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="233" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="240" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="247" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="255" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="265" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="270" column="31" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="281" column="31" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="284" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="293" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="303" column="31" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="306" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="314" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="332" column="35" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="344" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="348" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="352" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="356" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="370" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="374" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="378" column="35" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="392" column="43" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="396" column="39" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="404" column="27" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="407" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="415" column="23" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/request/validator/LoadClientRequestAction1Validator.java" />
+      <jump line="7" column="4" filename="$USER_HOME$/Projetos/TEM/API/api-tem-enel/src/main/java/br/com/meutem/api/enel/responses/EnelCustomer.java" />
+      <jump line="15" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console.sql" />
+      <jump line="136" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80f50af0-d646-4c08-b433-32c13c972221/console.sql" />
+      <jump line="359" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/80f50af0-d646-4c08-b433-32c13c972221/console.sql" />
+      <jump line="537" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="37" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/042878fa-79fc-469e-a1eb-6fc3645d06d1/console.sql" />
+      <jump line="85" column="7" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" />
+      <jump line="86" column="7" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" />
+      <jump line="87" column="7" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" />
+      <jump line="88" column="7" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" />
+      <jump line="89" column="7" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/services/ProviderService.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-app/src/main/java/br/com/meutem/api/app/dto/ProviderDTO.java" />
+      <jump line="69" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/91c084f8-5856-4f4a-9b0e-7dcbf812cbff/console.sql" />
+      <jump line="143" column="83" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleReportInactivity.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="118" column="8" filename="$USER_HOME$/Projetos/TEM/API/api-tem-sempre/src/main/java/br/com/meutem/api/sempre/schedule/ScheduleTaskAdesaoSabemi.java" />
+      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/651e2a7f-d87c-4491-9f2c-53683bd4d990/console_6.sql" />
+      <jump line="22" column="24" filename="$USER_HOME$/Projetos/TEM/API/api-tem-commons/src/main/java/br/com/meutem/api/sempre/dto/TransactionTypeCard.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>REPLACE(erro, '81', CONCAT('81', ' (Erro durante geração de aṕolice)' COLLATE utf8mb4_bin))</text>
+      </register>
+      <register name="-" type="4">
+        <text>REPLACE(erro, '81', CONCAT('81', ' (Erro durante geração de aṕolice)' COLLATE utf8mb4_bin))</text>
+      </register>
+      <register name="/" type="4">
+        <text>\t\+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAoJzA5OScsIGxwYWQoZmxvb3IocmFuZCgpICogMWU1KSwgNSwgJzAnKSwgJ3Rlc3RlL3N1bGFjYXAnLCBub3coKSwgNyksCiAgICAgICA7CgpTRUxFQ1QgaWQsIGNhcnRhb19pZApGUk9NIGJpbGhldGVfc29ydGUKV0hFUkUgY2FtcGFuaGFfY2FwaXRhbGl6YWNhb19pZCA9IDc7CgpVUERBVEUgYmlsaGV0ZV9zb3J0ZQpTRVQgY2FydGFvX2lkID0gTlVMTApXSEVSRSBjYW1wYW5oYV9jYXBpdGFsaXphY2FvX2lkIElOICg3LCA4KTsK</text>
+      </register>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFLW1haWwgZG8gY2xpZW50ZQogICAgICAgICAqLwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSBjb21lcmNpYWwKICAgICAgICAgKi8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSByZXNpZGVuY2lhbAogICAgICAgICAqLwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBUZWxlZm9uZSBjZWx1bGFyCiAgICAgICAgICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoZXN0YWRvKQogICAgICAgICAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoQ0VQKQogICAgICAgICAqLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoY2lkYWRlKQogICAgICAgICAqLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBFbmRlcmXDp28gZG8gY2xpZW50ZSAoYmFpcnJvKQogICAgICAgICAqLwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL1x0XCsvIC9n</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>\t\+</last-search>
+      <last-offset />
+      <last-pattern>\t\+</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>\t\+</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
