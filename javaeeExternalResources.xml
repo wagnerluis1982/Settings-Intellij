@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.1/extResources/334543e7_spring-beans.xsd" />
     <resource url="http://www.w3.org/1999/02/22-rdf-syntax-ns#" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/edc05920_22-rdf-syntax-ns#.xml" />
     <ignored-resource url="http://creativecommons.org/ns#" />
     <ignored-resource url="http://purl.org/dc/elements/1.1/" />
